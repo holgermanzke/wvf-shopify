@@ -1,0 +1,52 @@
+<section class="section section--page page">
+	<div class="container container--medium">
+		<div class="section__title section__title--center">
+            <h1 class="section__title-text h2">{{ page.title }}</h1>
+        </div>
+      	{% unless page.metafields.winemaker.name == blank %}
+			<div class="winemaker--container">	
+      			<img src="{{ page.metafields.winemaker.image }}" alt="{{ page.metafields.winemaker.name }}" class="winemaker__picture" />
+              <div class="winemaker--wrapper">
+              <div class="winemaker--details">
+                <div class="winemaker--details__headline">Anbaugebiet:
+                  {{ page.metafields.winemaker.location }}</div>
+	    		<div class="winemaker--details__headline winemaker--details__margin">Weine</div>
+	    		<ul class="winmaker--winelist__items">	
+		    		{% for wine in page.metafields.winemaker.winelist %}
+	    	    	  <li>{{wine}}</li>
+    				{% endfor %}
+				</ul>
+      	   		<div class="winemaker--details__headline winemaker--details__margin">Web / Social Media</div>
+                <div class="winemaker--socialmedia__wrapper">
+                  {% unless page.metafields.winemaker.website == blank %}
+                <a href="{{ page.metafields.winemaker.website }}" target="_blank"><img src="{{ 'web-icon.png' | asset_img_url: '50x50' }}" alt="Webseite"></a>
+                  {% endunless %}
+                  {% unless page.metafields.winemaker.instagram == blank %}
+                <a href="{{ page.metafields.winemaker.instagram }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0534/0128/8894/files/Icon-Instagram_50x50.png?v=1616174149" alt="Instagram"></a>
+				{% endunless %}
+                  {% unless page.metafields.winemaker.facebook == blank %}
+                  <a href="{{ page.metafields.winemaker.facebook }}" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0534/0128/8894/files/Icon-Facebook_50x50.png?v=1616174113" alt"Facebook"></a>
+                {% endunless %}
+                </div>
+                <div class="winemaker--details__headline winemaker--details__margin">Adresse</div>
+                <div class="winemaker__address">{{ page.metafields.winemaker.address }}</div>
+                
+                
+              </div>
+              <div class="winemaker--description">
+                <h3>Weingut</h3>
+                <p>{{ page.metafields.winemaker.description }}</p>
+                <h3>Philosophie</h3>
+                <p>{{ page.metafields.winemaker.philosophy }}</p>
+                <h3>Weine</h3>
+                <p>{{ page.metafields.winemaker.wine-description }}</p>
+              </div>
+              </div>
+      		</div>
+		{% endunless %}
+        <div class="page__content rte">
+      		{{ page.content }}
+    	</div>
+      
+	</div>
+</section>
