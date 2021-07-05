@@ -151,9 +151,11 @@
           "parent_links": true,
           "mega_nav": false,
           "mega_image": "shopify:\/\/shop_images\/MI_WVF2019_168.jpg",
+          "mega_image_link": "",
           "mega_title": "",
           "mega_text": "",
           "mega_link_title": "",
+          "mega_link": "",
           "show_locale_selector": false,
           "show_currency_selector": false
         }
@@ -162,15 +164,17 @@
         "type": "mobile-drawer",
         "settings": {
           "main_linklist": "main-menu",
-          "contact_title": "Contact",
+          "contact_title": "Kontakt",
           "show_contact_number": true,
           "show_contact_email": true,
           "show_locale_selector": true,
           "show_currency_selector": true,
           "show_social": true,
+          "cta_image_link": "",
           "cta_title": "",
           "cta_text": "",
-          "cta_link_title": "Learn more"
+          "cta_link_title": "Learn more",
+          "cta_link": ""
         }
       },
       "promo-pop": {
@@ -181,6 +185,7 @@
           "title": "Newsletter",
           "text": "<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>",
           "link_title": "More info",
+          "link": "",
           "delay": 6,
           "expiry": 30,
           "enable_newsletter": true
@@ -193,7 +198,8 @@
           "title": "Age verification",
           "text": "<p>By clicking enter you are verifying that you are old enough to consume alcohol.<\/p>",
           "enter_btn_label": "Enter",
-          "leave_btn_label": "Leave"
+          "leave_btn_label": "Leave",
+          "leave_link": ""
         }
       },
       "collection-template": {
@@ -471,7 +477,8 @@
           "title": "Was unsere Winzer:innen sagen",
           "style_desktop": "grid",
           "style_mobile": "grid",
-          "link_title": "Shop now"
+          "link_title": "Shop now",
+          "link": ""
         }
       },
       "1566456294786": {
@@ -484,7 +491,8 @@
               "image_alignment": "center",
               "text_alignment": "bottom",
               "title": "Image block",
-              "text": "Use these image blocks to tell your story, promote your products or create a beautiful gallery."
+              "text": "Use these image blocks to tell your story, promote your products or create a beautiful gallery.",
+              "link": ""
             }
           },
           "1566456294786-1": {
@@ -493,7 +501,8 @@
               "image_alignment": "center",
               "text_alignment": "bottom",
               "title": "Image block",
-              "text": "Use these image blocks to tell your story, promote your products or create a beautiful gallery."
+              "text": "Use these image blocks to tell your story, promote your products or create a beautiful gallery.",
+              "link": ""
             }
           }
         },
@@ -533,6 +542,7 @@
           "message_show": false,
           "home_page_only": false,
           "message_text": "Das Festival 2021 findet online statt! Tickets ab sofort buchbar",
+          "message_link": "",
           "message_color_bg": "#ffffff",
           "message_color_text": "#ffffff"
         }
@@ -570,6 +580,7 @@
           "title": "Events",
           "desc": "",
           "link_title": "",
+          "link": "",
           "mobile_layout": "carousel",
           "bg_color": "rgba(0,0,0,0)",
           "overlay_strength": 50,
@@ -1565,6 +1576,7 @@
               "title": "Weine vor Freude Festival",
               "text": "<p>Wir veranstalten jährlich ein Festival in Bochum, bei dem sich alles um das Thema Wein dreht. Hier können nicht nur die Weine einer Vielzahl von Winzer:innen probiert werden, sondern es gibt auch jede Menge spannender Aktivitäten. Es gibt leckeres Essen, spannende Workshops, Musik und viele Weinliebhaber:innen. <\/p>",
               "link_title": "",
+              "link": "",
               "align": "center",
               "width": "2\/3"
             }
@@ -1613,7 +1625,8 @@
               "text_color": "default",
               "title": "",
               "text": "",
-              "link_title": "More info"
+              "link_title": "More info",
+              "link": ""
             }
           },
           "9b6840b9-c8db-4b1e-8619-b9ddc335c427": {
@@ -1626,7 +1639,8 @@
               "text_color": "default",
               "title": "",
               "text": "",
-              "link_title": "More info"
+              "link_title": "More info",
+              "link": ""
             }
           },
           "d5eee4c3-7c80-4a1e-b2b7-f440a4504d24": {
@@ -1639,7 +1653,8 @@
               "text_color": "default",
               "title": "",
               "text": "",
-              "link_title": "More info"
+              "link_title": "More info",
+              "link": ""
             }
           },
           "3dfbf87d-d8d9-4e29-9ccb-32583b6658d9": {
@@ -1652,7 +1667,8 @@
               "text_color": "default",
               "title": "",
               "text": "",
-              "link_title": "More info"
+              "link_title": "More info",
+              "link": ""
             }
           }
         },
