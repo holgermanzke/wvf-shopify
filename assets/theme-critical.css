@@ -1227,6 +1227,7 @@ body {
 
 html {
   overflow-y: scroll;
+  scroll-behavior: smooth;
   min-height: 100%;
   font-size: calc((var(--font--size-base) / 16) * 1em);
   line-height: calc(var(--font--line-base) / var(--font--size-base)); }
@@ -5094,4 +5095,20 @@ body:before {
 
 .blog__title.h4 {
   font-weight: 700
+}
+
+.anchor:before {
+  content: ''; 
+  display: block;
+  position: relative; 
+  width: 0; 
+  height: 180px; 
+  margin-top: -180px;
+}
+
+@media screen and (max-width: 767px) {
+  .anchor:before {
+    height: 155px; 
+    margin-top: -155px;
+  }
 }
