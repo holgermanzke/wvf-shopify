@@ -96,7 +96,6 @@
                         </div>
                     </div>
                 {% endif %}
-
                 <div class="container">
                     {% if section.settings.layout == 'classic' or section.settings.layout == 'minimal' %}
                     <div class="u-hidden@desk-up" data-set="cart-photo-replace">
@@ -374,7 +373,19 @@
                                                 {{ 'deutschland.delivery_note' | t }}
                                                 {%- endif -%}
                                             </div>
-
+                                            {% comment %} Inventory tracking on product page {% endcomment %}
+                                            <!-- <div id="variant-inventory" class="{% unless current_variant.available %} hide {% endunless %}">
+                                              {% if current_variant.inventory_management == "shopify" and current_variant.inventory_policy != "continue" %}
+                                              Es sind noch {{ current_variant.inventory_quantity }} Produkte verfügbar.
+                                              {% else %}
+                                              Das Produkt ist verfügbar.
+                                              {% endif %}
+                                            </div> -->
+                                            {% if current_variant.inventory_management == "shopify" and current_variant.inventory_policy != "continue" %}
+                                            <div id="variant-inventory" >
+                                              Es sind nur noch {{ current_variant.inventory_quantity }} Produkte verfügbar.
+                                            </div>
+                                            {% endif %}
                                             {% if section.settings.show_quantity_selector %}
                                                 <div class="product-single__qty">
                                                     <label for="Quantity" class="quantity-selector">{{ 'products.product.quantity' | t }}</label>

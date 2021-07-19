@@ -5112,3 +5112,8 @@ body:before {
     margin-top: -155px;
   }
 }
+
+#variant-inventory {
+  margin: 10px 0;
+  font-weight: 700;
+}
