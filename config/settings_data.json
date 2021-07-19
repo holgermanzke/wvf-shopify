@@ -391,20 +391,19 @@
       },
       "1566456250311": {
         "type": "home-slideshow",
-        "disabled": true,
         "blocks": {
           "1566456250311-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Eventbild_Dummie_gross.png",
-              "image_mobile": "shopify:\/\/shop_images\/Eventbild_Dummie_klein.png",
+              "image": "shopify:\/\/shop_images\/franz-hahn-web_E.png",
+              "image_mobile": "shopify:\/\/shop_images\/franz-hahn-web_G.jpg",
               "image_alignment": "center",
               "alignment": "left",
               "text_color": "white",
-              "title": "Online Weinprobe mit dem Weingut Schreieck",
-              "text": "<p>Am 30.04.2021 um 20 Uhr<\/p>",
+              "title": "Online Weinprobe mit dem Weinhaus Franz Hahn",
+              "text": "<p>Am 23.07.2021 um 20 Uhr<\/p>",
               "link_title": "Zur Online Weinprobe",
-              "link": "https:\/\/weine-vor-freude.myshopify.com\/products\/online-weinprobe-mit-oswald-pura-vida"
+              "link": "https:\/\/weine-vor-freude.de\/products\/online-weinprobe-weinhaus-franz-hahn?utm_source=web&utm_medium=banner&utm_campaign=franzhahn"
             }
           }
         },
@@ -539,11 +538,11 @@
       "announcement": {
         "type": "announcement",
         "settings": {
-          "message_show": false,
+          "message_show": true,
           "home_page_only": false,
-          "message_text": "Das Festival 2021 findet online statt! Tickets ab sofort buchbar",
-          "message_link": "",
-          "message_color_bg": "#ffffff",
+          "message_text": "\"Prickelnde\" Online Weinprobe mit Franz Hahn! Jetzt noch eines der limitierten Ticket sichern!",
+          "message_link": "https:\/\/weine-vor-freude.de\/products\/online-weinprobe-weinhaus-franz-hahn?utm_source=website&utm_medium=announcementbar&utm_campaign=franzhahn",
+          "message_color_bg": "#b3241e",
           "message_color_text": "#ffffff"
         }
       },
@@ -1791,7 +1790,7 @@
               "desc": "<p>Wer Lust auf eine Online Weinprobe mit dem eigenen Team oder Freundeskreis hat, bucht am besten ein Online Teamevent!<\/p><p>Alle Einzelheiten sind hier individuell planbar, sodass kein Wunsch unerfüllt bleibt und für jede:n die perfekte Weinprobe entsteht.<\/p>",
               "video": "",
               "link_title": "Zu den Teamevents",
-              "link": "https:\/\/weine-vor-freude.myshopify.com\/pages\/online-teamevents"
+              "link": "https:\/\/weine-vor-freude.de\/pages\/online-weinprobe-mit-freunden-teamevents"
             }
           },
           "4abc6c43-f327-47a4-8034-1acb72ae038c": {
@@ -1815,12 +1814,12 @@
       }
     },
     "content_for_index": [
+      "1566456250311",
       "161347815730dfdfc1",
       "1616160181dfb3d68b",
       "161493571403d914c3",
       "1566456283593",
       "16171767613b4b0856",
-      "1566456250311",
       "16128850157b6ec94b",
       "1566456294786",
       "1614239380c9d65996",
