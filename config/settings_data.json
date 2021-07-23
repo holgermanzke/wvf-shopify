@@ -391,6 +391,7 @@
       },
       "1566456250311": {
         "type": "home-slideshow",
+        "disabled": true,
         "blocks": {
           "1566456250311-1": {
             "type": "image",
@@ -538,7 +539,7 @@
       "announcement": {
         "type": "announcement",
         "settings": {
-          "message_show": true,
+          "message_show": false,
           "home_page_only": false,
           "message_text": "\"Prickelnde\" Online Weinprobe mit Franz Hahn! Jetzt noch eines der limitierten Ticket sichern!",
           "message_link": "https:\/\/weine-vor-freude.de\/products\/online-weinprobe-weinhaus-franz-hahn?utm_source=website&utm_medium=announcementbar&utm_campaign=franzhahn",
