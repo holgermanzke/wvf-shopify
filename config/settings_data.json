@@ -1812,6 +1812,88 @@
           "4abc6c43-f327-47a4-8034-1acb72ae038c"
         ],
         "settings": {}
+      },
+      "page-sections-event-overview": {
+        "type": "page-sections-event-overview",
+        "blocks": {
+          "8b01299e-2cc4-4243-956c-9a69a2ca9bec": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><strong>Weine vor Freude geht in die achte Runde – aber anders!<\/strong><\/p><p>Vom <strong>19.-21. August<\/strong> laden wir euch zu einer abwechslungsreichen und <strong>pandemiekonformen Version<\/strong> unseres beliebten <strong>urbanen Weinfestivals<\/strong> in Bochum ein. In gewohnt <strong>lockerer Atmosphäre <\/strong>möchten wir mit euch ein paar spannende <strong>Verkostungen<\/strong> von <strong>Weinen ausgesuchter Winzer:innen<\/strong> aus Deutschland erleben. Mit dabei sind:<br\/><br\/><strong>- Henrik vom Weingut Schweder<br\/>- Johanna und Michael vom Weingut Peth<br\/>- Jürgen vom Weingut Graf von Weyher<br\/>- Patric vom Weingut Rummel<\/strong><br\/><br\/><\/p>",
+              "link_title": "Learn more",
+              "link": "",
+              "align": "left",
+              "width": "1\/1"
+            }
+          },
+          "d64c0c8e-a8ed-465f-9b5f-801669258148": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weinabend_4.jpg",
+              "link": "",
+              "width": "1\/2"
+            }
+          },
+          "b6024470-0bd1-49be-bf89-75b9d690150a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weinabend_14.jpg",
+              "link": "",
+              "width": "1\/2"
+            }
+          },
+          "6eb0d397-e6c3-461c-b701-1057a3923d47": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p><strong>Das Besondere<\/strong>: Ihr könnt es euch mit euren <strong>Freund:innen<\/strong> an einem Tisch bequem machen und euch von unseren <strong>Winzer:innen<\/strong> mit ihren Weinen versorgen lassen. Sie werden euch je nach Länge des Events <strong>6-8 gute Tropfen<\/strong> aus ihrem <strong>vielseitigen Portfolio<\/strong> präsentieren und diese auch <strong>erklären<\/strong>.<\/p><p>Bei Interesse stehen sie euch natürlich auch <strong>Frage und Antwort<\/strong>. Ihr wolltet schon immer mal wissen, wie der Wein von der Rebe in die Flasche kommt? Hier habt ihr die <strong>Gelegenheit<\/strong> alles darüber zu <strong>erfahren<\/strong>!<\/p><p>Es klingt nicht nur gut, <strong>es wird auch richtig gut!<\/strong> Wir können es <strong>kaum erwarten<\/strong>.<\/p>",
+              "link_title": "Learn more",
+              "link": "",
+              "align": "left",
+              "width": "1\/1"
+            }
+          },
+          "343f2592-7456-432c-85cc-59cd88ab1d4d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weinabend_11.jpg",
+              "link": "",
+              "width": "1\/2"
+            }
+          },
+          "8cf029ee-f974-436d-8371-485132442d33": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weinabend.jpg",
+              "link": "",
+              "width": "1\/2"
+            }
+          },
+          "78a56058-f018-4c26-ab80-a4f96b0300b2": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p>Besorgt eure <strong>terminierten Tickets<\/strong> bitte unbedingt <strong>im Vorhinein<\/strong>, wir haben <strong>keine Abendkasse!<\/strong> Insgesamt gibt es <strong>nur 240 Tickets<\/strong>, also nichts wie los!<\/p><p>Damit Abstands- und Kontaktbeschränkungen eingehalten werden, können wir Tickets jeweils nur in <strong>Zweierschritten <\/strong>(Zweier-, Vierer- und Sechser-Ticket) verkaufen. <\/p><p>Sucht euch einfach eines der folgenden <strong>Events <\/strong>aus und freut euch auf einen interessanten <strong>Weinabend<\/strong>:<\/p><p>- <strong>Donnerstag<\/strong>, 19.08., 17:30-19:00 Uhr, 90 Minuten - 5 Weine + Begrüßungsgetränk (15€)<br\/>- <strong>Donnerstag<\/strong>, 19.08., 19:30-21:00 Uhr, 90 Minuten - 5 Weine + Begrüßungsgetränk (15€)<br\/>- <strong>Freitag<\/strong>, 20.08., 16:30-19:00 Uhr, 150 Minuten - 8 Weine + Begrüßungsgetränk (25€)<br\/>- <strong>Freitag<\/strong>, 20.08., 19:30-22:00 Uhr, 150 Minuten - 8 Weine + Begrüßungsgetränk (25€)<br\/>- <strong>Samstag<\/strong>, 21.08., 15:30-18:00 Uhr, 150 Minuten - 8 Weine + Begrüßungsgetränk (25€)<br\/>- <strong>Samstag<\/strong>, 21.08., 18:30-21:00 Uhr, 150 Minuten - 8 Weine + Begrüßungsgetränk (25€)<\/p><p><strong>Bitte beachtet<\/strong>, dass beim Zutritt <strong>die 3Gs<\/strong> gelten. Daher ist die Vorlage eines Nachweises über einen <strong>negativen Corona-Test<\/strong> (von einer offiziellen Stelle), eure <strong>vollständige Impfung<\/strong> (mindestens 14 Tage nach Zweitimpfung) oder eure <strong>vollständige Genesung<\/strong> (Infektion darf nicht länger als 6 Monate zurückliegen) am Einlass erforderlich. Zur <strong>Verifikation <\/strong>muss zudem ein <strong>gültiger Ausweis<\/strong> vorgelegt werden.<br\/><br\/>Hier noch einmal alle Fakten:<\/p><p><strong>Weine vor Freude 2021<\/strong><br\/><strong>Donnerstag, 19.08. – Samstag, 21.08.2021<\/strong><br\/><strong>Rotunde (Alter Bochumer Hauptbahnhof)<\/strong><\/p><p><br\/><br\/><\/p>",
+              "link_title": "Learn more",
+              "link": "",
+              "align": "left",
+              "width": "1\/1"
+            }
+          }
+        },
+        "block_order": [
+          "8b01299e-2cc4-4243-956c-9a69a2ca9bec",
+          "d64c0c8e-a8ed-465f-9b5f-801669258148",
+          "b6024470-0bd1-49be-bf89-75b9d690150a",
+          "6eb0d397-e6c3-461c-b701-1057a3923d47",
+          "343f2592-7456-432c-85cc-59cd88ab1d4d",
+          "8cf029ee-f974-436d-8371-485132442d33",
+          "78a56058-f018-4c26-ab80-a4f96b0300b2"
+        ],
+        "settings": {
+          "container": "medium"
+        }
       }
     },
     "content_for_index": [
