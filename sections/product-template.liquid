@@ -373,15 +373,7 @@
                                                 {{ 'deutschland.delivery_note' | t }}
                                                 {%- endif -%}
                                             </div>
-                                            {% comment %} Inventory tracking on product page {% endcomment %}
-                                            <!-- <div id="variant-inventory" class="{% unless current_variant.available %} hide {% endunless %}">
-                                              {% if current_variant.inventory_management == "shopify" and current_variant.inventory_policy != "continue" %}
-                                              Es sind noch {{ current_variant.inventory_quantity }} Produkte verfügbar.
-                                              {% else %}
-                                              Das Produkt ist verfügbar.
-                                              {% endif %}
-                                            </div> -->
-                                            {% if current_variant.inventory_management == "shopify" and current_variant.inventory_policy != "continue" %}
+                                            <!-- {% if current_variant.inventory_management == "shopify" and current_variant.inventory_policy != "continue" %}
                                             <div id="variant-inventory" >
                                               Es sind nur noch {{ current_variant.inventory_quantity }} Produkte verfügbar.
                                             </div>
@@ -393,7 +385,7 @@
                                                         <input type="number" id="Quantity" name="quantity" value="1" min="1" class="quantity-selector">
                                                     </div>
                                                 </div>
-                                            {% endif %}
+                                            {% endif %} -->
 
                                             {% if section.settings.show_inventory %}
                                                 <p class="product-single__stock-note js-price-stock-note" data-qty-limit="{{ section.settings.inventory_limit }}" {% if current_variant.inventory_management == "shopify" and current_variant.available %}{% unless current_variant.inventory_quantity <= section.settings.inventory_limit %} style="display:none;"{% endunless %}{% endif %}>{{ 'products.product.qty_notice_html' | t: count: current_variant.inventory_quantity }}</p>
