@@ -1,7 +1,7 @@
 {% if content_for_header contains 'shopifyorderlimits.s3.amazonaws.com' %}
 {% if shop.permanent_domain == 'weine-vor-freude.myshopify.com' %}
 <script type="text/javascript">minMaxifyCustomer = { id: {{ customer.id | json }}, tags: {{ customer.tags | json }} };</script>
-<script src="https://shopifyorderlimits.s3.amazonaws.com/limits/weine-vor-freude.myshopify.com?v=79a&r=20210726144615&shop=weine-vor-freude.myshopify.com"></script>
+<script src="https://shopifyorderlimits.s3.amazonaws.com/limits/weine-vor-freude.myshopify.com?v=80a&r=20210804135324&shop=weine-vor-freude.myshopify.com"></script>
 {% endif %}
 {% else %}
 <script type="text/javascript">console.error("MinMaxify is deactivated for this website. Please don't forget to remove minmaxify-head.liquid still being referenced by theme.liquid")</script>

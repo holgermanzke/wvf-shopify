@@ -401,7 +401,7 @@
               "alignment": "left",
               "text_color": "white",
               "title": "Weine vor Freude 2021 - die urbane Weinprobe!",
-              "text": "<p>Vom 19. - 21. August 2021 findet unsere pandemiekonforme Version unseres beliebten urbanen Weinfestivals in Bochum statt. <br\/>Vier Winzer:innen sind vor Ort und verkosten mit euch leckere Weine. Seid dabei und sichert euch eins der heißbegehrten Tickets!<\/p>",
+              "text": "<p>Vom 19. - 21. August 2021 findet unsere pandemiekonforme Version unseres beliebten urbanen Weinfestivals in Bochum statt. <br\/>Acht Weinmacher:innen sind vor Ort und verkosten mit euch leckere Weine. Seid dabei und sichert euch eins der heißbegehrten Tickets!<\/p>",
               "link_title": "Zu Weine vor Freude 2021",
               "link": "https:\/\/weine-vor-freude.de\/pages\/urbane-weinprobe-bochum?utm_source=website&utm_medium=Banner&utm_campaign=wvf21"
             }
@@ -1819,7 +1819,28 @@
             "type": "text",
             "settings": {
               "title": "",
-              "text": "<p><strong>Weine vor Freude geht in die achte Runde – aber anders!<\/strong><\/p><p>Vom <strong>19.-21. August<\/strong> laden wir euch zu einer abwechslungsreichen und <strong>pandemiekonformen Version<\/strong> unseres beliebten <strong>urbanen Weinfestivals<\/strong> in Bochum ein. In gewohnt <strong>lockerer Atmosphäre <\/strong>möchten wir mit euch ein paar spannende <strong>Verkostungen<\/strong> von <strong>Weinen ausgesuchter Winzer:innen<\/strong> aus Deutschland erleben. Mit dabei sind:<br\/><br\/><strong>- <\/strong><a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-schweder-hochstadt\" target=\"_blank\" title=\"https:\/\/weine-vor-freude.de\/pages\/weingut-schweder-hochstadt\"><strong>Henrik vom Weingut Schweder<\/strong><\/a><strong><br\/>- <\/strong><a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-peth-monzernheim\" target=\"_blank\" title=\"https:\/\/weine-vor-freude.de\/pages\/weingut-peth-monzernheim\"><strong>Johanna und Michael vom Weingut Peth<\/strong><\/a><strong><br\/>- <\/strong><a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-graf-von-weyher-weyher\" target=\"_blank\" title=\"https:\/\/weine-vor-freude.de\/pages\/weingut-graf-von-weyher-weyher\"><strong>Jürgen vom Weingut Graf von Weyher<\/strong><\/a><strong><br\/>- <\/strong><a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-rummel-hochstadt\" target=\"_blank\" title=\"https:\/\/weine-vor-freude.de\/pages\/weingut-rummel-hochstadt\"><strong>Patric vom Weingut Rummel<\/strong><\/a><br\/><br\/><\/p>",
+              "text": "<p><strong>Weine vor Freude geht in die achte Runde – aber anders!<\/strong><\/p><p>Vom <strong>19.-21. August<\/strong> laden wir euch zu einer abwechslungsreichen und <strong>pandemiekonformen Version<\/strong> unseres beliebten <strong>urbanen Weinfestivals<\/strong> in Bochum ein. In gewohnt <strong>lockerer Atmosphäre <\/strong>möchten wir mit euch ein paar spannende <strong>Verkostungen<\/strong> von <strong>Weinen ausgesuchter Winzer:innen <\/strong>und <strong>Weinmacher:innen<\/strong> aus Deutschland erleben. <br\/><br\/>Aufgrund der hohen Nachfrage wird zusätzlich zu den Veranstaltungen in der <strong>Rotunde<\/strong> (19.-21.08.) am 20.08. <strong>eine weitere Verkostung in der benachbarten Halle der Rotunde <\/strong>stattfinden. Am Samstag, dem 21.08. konnten wir darüber hinaus <strong>zwei zusätzliche Veranstaltungen im Riff<\/strong> organisieren.<\/p><p>Bei den <strong>Zusatzveranstaltungen<\/strong> in der Rotunde und im Riff dabei sind: <\/p><p>- <a href=\"https:\/\/vinyes.de\/\" target=\"_blank\" title=\"Vinyes\">Gerrit und Henrik von Vinyes<\/a> <br\/>- <a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-j-g-orb-westhofen\" target=\"_blank\" title=\"Wein vor Freude Weingut Orb \">Jan und Jens vom Weingut Orb<\/a><br\/>- <a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-anton-herxheim\" target=\"_blank\" title=\"Weine vor Freude Weingut Anton\">Sandra und Matthias vom Weingut Anton<\/a> <br\/>- <a href=\"https:\/\/weine-vor-freude.de\/\" target=\"_blank\" title=\"Startseite Weine vor Freude\">Christina von Weine vor Freude<\/a> <\/p>",
+              "link_title": "Learn more",
+              "link": "",
+              "align": "left",
+              "width": "1\/1"
+            }
+          },
+          "12ae00ce-ff0a-4545-b490-d1a9b4b13f62": {
+            "type": "button",
+            "settings": {
+              "title": "Direkt zu den Tickets!",
+              "link": "https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021",
+              "color": "primary",
+              "size": "bigger",
+              "width": "1\/2"
+            }
+          },
+          "60770c8b-e9ab-49ee-b7d7-986c6d9171c0": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p>In der <strong>Rotunde <\/strong>erwarten euch: <strong>(ausverkauft!)<\/strong><\/p><p><strong>- <\/strong><a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-schweder-hochstadt\" target=\"_blank\" title=\"https:\/\/weine-vor-freude.de\/pages\/weingut-schweder-hochstadt\"><strong>Henrik vom Weingut Schweder<\/strong><\/a><strong><br\/>- <\/strong><a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-peth-monzernheim\" target=\"_blank\" title=\"https:\/\/weine-vor-freude.de\/pages\/weingut-peth-monzernheim\"><strong>Johanna und Michael vom Weingut Peth<\/strong><\/a><strong><br\/>- <\/strong><a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-graf-von-weyher-weyher\" target=\"_blank\" title=\"https:\/\/weine-vor-freude.de\/pages\/weingut-graf-von-weyher-weyher\"><strong>Jürgen vom Weingut Graf von Weyher<\/strong><\/a><strong><br\/>- <\/strong><a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-rummel-hochstadt\" target=\"_blank\" title=\"https:\/\/weine-vor-freude.de\/pages\/weingut-rummel-hochstadt\"><strong>Patric vom Weingut Rummel<\/strong><\/a><\/p>",
               "link_title": "Learn more",
               "link": "",
               "align": "left",
@@ -1846,7 +1867,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "text": "<p><strong>Das Besondere<\/strong>: Ihr könnt es euch mit euren <strong>Freund:innen<\/strong> an einem Tisch bequem machen und euch von unseren <strong>Winzer:innen<\/strong> mit ihren Weinen versorgen lassen. Sie werden euch je nach Länge des Events <strong>6-8 gute Tropfen<\/strong> aus ihrem <strong>vielseitigen Portfolio<\/strong> präsentieren und diese auch <strong>erklären<\/strong>.<\/p><p>Bei Interesse stehen sie euch natürlich auch <strong>Frage und Antwort<\/strong>. Ihr wolltet schon immer mal wissen, wie der Wein von der Rebe in die Flasche kommt? Hier habt ihr die <strong>Gelegenheit<\/strong> alles darüber zu <strong>erfahren<\/strong>!<\/p><p>Es klingt nicht nur gut, <strong>es wird auch richtig gut!<\/strong> Wir können es <strong>kaum erwarten<\/strong>.<\/p>",
+              "text": "<p><strong>Das Besondere<\/strong>: Ihr könnt es euch mit euren <strong>Freund:innen<\/strong> an einem Tisch bequem machen und euch von unseren <strong>Winzer:innen<\/strong> und <strong>Weinmacher:innen<\/strong> mit ihren Weinen versorgen lassen. Sie werden euch je nach Länge des Events <strong>6-8 gute Tropfen<\/strong> aus ihrem <strong>vielseitigen Portfolio<\/strong> präsentieren und diese auch <strong>erklären<\/strong>.<\/p><p>Bei Interesse stehen sie euch selbstverständlich <strong>Frage und Antwort<\/strong>. Ihr wolltet schon immer mal wissen, wie der Wein von der Rebe in die Flasche kommt? Hier habt ihr die <strong>Gelegenheit<\/strong> alles darüber zu <strong>erfahren<\/strong>!<\/p><p>Es klingt nicht nur gut, <strong>es wird auch richtig gut!<\/strong> Wir können es <strong>kaum erwarten<\/strong>.<\/p>",
               "link_title": "Learn more",
               "link": "",
               "align": "left",
@@ -1856,7 +1877,7 @@
           "343f2592-7456-432c-85cc-59cd88ab1d4d": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Weinabend_11.jpg",
+              "image": "shopify:\/\/shop_images\/Weine_vor_Freude_Wine_Thursday_im_Riff_Bochum_ALEXANDER_SCHNEIDER_28._September_2017_-31.jpg",
               "link": "",
               "width": "1\/2"
             }
@@ -1873,7 +1894,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "text": "<p>Besorgt eure <strong>terminierten Tickets<\/strong> bitte unbedingt <strong>im Vorhinein<\/strong>, wir haben <strong>keine Abendkasse!<\/strong> Insgesamt gibt es <strong>nur 240 Tickets<\/strong>, also nichts wie los!<\/p><p>Damit Abstands- und Kontaktbeschränkungen eingehalten werden, können wir Tickets jeweils nur in <strong>Zweierschritten <\/strong>(Zweier-, Vierer- und Sechser-Ticket) verkaufen. <\/p><p>Sucht euch einfach eines der folgenden <strong>Events <\/strong>aus und freut euch auf einen interessanten <strong>Weinabend<\/strong>:<\/p><p>- <a href=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/weine-vor-freude-die-urbane-weinprobe-donnerstag\" title=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/weine-vor-freude-die-urbane-weinprobe-donnerstag\"><strong>Donnerstag<\/strong>, 19.08., 17:30-19:00 Uhr<\/a>, 90 Minuten - 5 Weine + Begrüßungsgetränk (15€)<br\/>- <a href=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/weine-vor-freude-die-urbane-weinprobe-donnerstag-19-08-2021-von-19-30-bis-21-00\" title=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/weine-vor-freude-die-urbane-weinprobe-donnerstag-19-08-2021-von-19-30-bis-21-00\"><strong>Donnerstag<\/strong>, 19.08., 19:30-21:00 Uhr<\/a>, 90 Minuten - 5 Weine + Begrüßungsgetränk (15€)<br\/>- <a href=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/weine-vor-freude-die-urbane-weinprobe-freitag-20-08-2021-von-18-00-bis-19-30\" title=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/weine-vor-freude-die-urbane-weinprobe-freitag-20-08-2021-von-18-00-bis-19-30\"><strong>Freitag<\/strong>, 20.08., 16:30-19:00 Uhr<\/a>, 150 Minuten - 8 Weine + Begrüßungsgetränk (25€)<br\/>- <a href=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/kopie-von-kopie-von-weine-vor-freude-die-urbane-weinprobe-freitag-20-08-2021-von-21-00-bis-23-30\" title=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/kopie-von-kopie-von-weine-vor-freude-die-urbane-weinprobe-freitag-20-08-2021-von-21-00-bis-23-30\"><strong>Freitag<\/strong>, 20.08., 19:30-22:00 Uhr<\/a>, 150 Minuten - 8 Weine + Begrüßungsgetränk (25€)<br\/>- <a href=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/weine-vor-freude-die-urbane-weinprobe-samstag\" title=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/weine-vor-freude-die-urbane-weinprobe-samstag\"><strong>Samstag<\/strong>, 21.08., 15:30-18:00 Uhr<\/a>, 150 Minuten - 8 Weine + Begrüßungsgetränk (25€)<br\/>- <a href=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/weine-vor-freude-die-urbane-weinprobe-samstag-1\" title=\"https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021\/products\/weine-vor-freude-die-urbane-weinprobe-samstag-1\"><strong>Samstag<\/strong>, 21.08., 18:30-21:00 Uhr<\/a>, 150 Minuten - 8 Weine + Begrüßungsgetränk (25€)<\/p>",
+              "text": "<p>Besorgt eure <strong>terminierten Tickets<\/strong> bitte unbedingt <strong>im Vorhinein<\/strong>, wir haben <strong>keine Abendkasse!<\/strong> Insgesamt gibt es <strong>nur eine limitierte Anzahl an Tickets<\/strong>, also nichts wie los!<\/p><p>Damit Abstands- und Kontaktbeschränkungen eingehalten werden, können wir Tickets jeweils nur in <strong>Zweierschritten <\/strong>(Zweier-, Vierer- und Sechser-Ticket) verkaufen. <\/p><p>Sucht euch einfach eines der folgenden <strong>Events <\/strong>aus und freut euch auf einen interessanten <strong>Weinabend<\/strong>:<\/p><p><strong>Zusatztermine:<\/strong><\/p><p>In der zweiten Halle der Rotunde: <\/p><p>-  <strong>Freitag, 20.08., 17:30-20:00 Uhr<\/strong>, 150 Minuten – 8 Weine + Begrüßungsgetränk (25€)<\/p><p>Im Riff:<\/p><p>- <strong> Samstag, 21.08., 16:00-18:30 Uhr<\/strong>, 150 Minuten – 8 Weine + Begrüßungsgetränk (25€)<br\/>-  <strong>Samstag, 21.08., 19:00-21:30 Uh<\/strong>r, 150 Minuten – 8 Weine + Begrüßungsgetränk (25€)<strong> <\/strong><\/p>",
               "link_title": "Learn more",
               "link": "",
               "align": "left",
@@ -1894,7 +1915,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "text": "<p><strong>Bitte beachtet<\/strong>, dass beim Zutritt <strong>die 3Gs<\/strong> gelten. Daher ist die Vorlage eines Nachweises über einen <strong>negativen Corona-Test<\/strong> (von einer offiziellen Stelle), eure <strong>vollständige Impfung<\/strong> (mindestens 14 Tage nach Zweitimpfung) oder eure <strong>vollständige Genesung<\/strong> (Infektion darf nicht länger als 6 Monate zurückliegen) am Einlass erforderlich. Zur <strong>Verifikation <\/strong>muss zudem ein <strong>gültiger Ausweis<\/strong> vorgelegt werden.<br\/><br\/>Hier noch einmal alle Fakten:<\/p><p><strong>Weine vor Freude 2021<\/strong><br\/><strong>Donnerstag, 19.08. – Samstag, 21.08.2021<\/strong><br\/><strong>Rotunde (Alter Bochumer Hauptbahnhof)<\/strong><\/p>",
+              "text": "<p><strong>Bitte beachtet<\/strong>, dass beim Zutritt <strong>die 3Gs<\/strong> gelten. Daher ist die Vorlage eines Nachweises über einen <strong>negativen Corona-Test<\/strong> (von einer offiziellen Stelle), eure <strong>vollständige Impfung<\/strong> (mindestens 14 Tage nach Zweitimpfung) oder eure <strong>vollständige Genesung<\/strong> (Infektion darf nicht länger als 6 Monate zurückliegen) am Einlass erforderlich. Zur <strong>Verifikation <\/strong>muss zudem ein <strong>gültiger Ausweis<\/strong> vorgelegt werden.<br\/><br\/>Hier noch einmal alle Fakten:<\/p><p><strong>Weine vor Freude 2021<br\/><\/strong><br\/><strong>Donnerstag, 19.08. – Samstag, 21.08.2021:<\/strong><br\/><strong>Rotunde (Alter Bochumer Hauptbahnhof)<\/strong><\/p><p><\/p><p><strong>Zusätzlich: <br\/>Freitag, 20.08.2021: Rotunde (Alter Bochumer Hauptbahnhof)<br\/>Samstag, 21.08.2021: Riff Bochum <\/strong><\/p>",
               "link_title": "Learn more",
               "link": "",
               "align": "left",
@@ -1904,6 +1925,8 @@
         },
         "block_order": [
           "8b01299e-2cc4-4243-956c-9a69a2ca9bec",
+          "12ae00ce-ff0a-4545-b490-d1a9b4b13f62",
+          "60770c8b-e9ab-49ee-b7d7-986c6d9171c0",
           "d64c0c8e-a8ed-465f-9b5f-801669258148",
           "b6024470-0bd1-49be-bf89-75b9d690150a",
           "6eb0d397-e6c3-461c-b701-1057a3923d47",
