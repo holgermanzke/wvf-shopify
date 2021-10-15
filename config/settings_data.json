@@ -391,19 +391,21 @@
       },
       "1566456250311": {
         "type": "home-slideshow",
+        "disabled": true,
         "blocks": {
           "1566456250311-1": {
             "type": "image",
+            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Graf_hell.png",
-              "image_mobile": "shopify:\/\/shop_images\/Graf_Mobil.png",
+              "image": "shopify:\/\/shop_images\/weinprobe-schneiderfritz_foto.png",
+              "image_mobile": "shopify:\/\/shop_images\/weinprobe-schneiderfritz.png",
               "image_alignment": "center",
               "alignment": "left",
               "text_color": "white",
-              "title": "Weine vor Freude 2021 - die urbane Weinprobe!",
-              "text": "<p>Vom 19. - 21. August 2021 findet unsere pandemiekonforme Version unseres beliebten urbanen Weinfestivals in Bochum statt. <br\/>Acht Weinmacher:innen sind vor Ort und verkosten mit euch leckere Weine. Seid dabei und sichert euch eins der heißbegehrten Tickets!<\/p>",
-              "link_title": "Zu Weine vor Freude 2021",
-              "link": "https:\/\/weine-vor-freude.de\/pages\/urbane-weinprobe-bochum?utm_source=website&utm_medium=Banner&utm_campaign=wvf21"
+              "title": "Online Weinprobe mit Martin Schneiderfritz",
+              "text": "<p>Am 24.09. haben wir Martin vom Weingut Schneiderfritz bei uns zu Gast, der uns in die wunderbare Welt der Weißweine entführt. Martin hat uns vier Weine mitgebracht, die wir an dem Abend probieren werden.<\/p>",
+              "link_title": "Zur Weinprobe",
+              "link": "https:\/\/weine-vor-freude.de\/products\/online-weinprobe-schneiderfritz?utm_source=website&utm_medium=banner&utm_campaign=weinprobe-schneiderfritz"
             }
           }
         },
@@ -540,10 +542,10 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "Weine vor Freude 2021 - die urbane Weinprobe! Jetzt eines der limitierten Tickets sichern!",
-          "message_link": "https:\/\/weine-vor-freude.de\/collections\/weine-vor-freude-2021?utm_source=website&utm_medium=Banner&utm_campaign=wvf21",
+          "message_text": "Digitale Weinproben für zu Hause - Weinpakete + Video - ab 37 € inkl. Versand - Jetzt neue Pakete mit den Weingütern Orb, Peth und Rummel",
+          "message_link": "shopify:\/\/collections\/flexible-weinproben",
           "message_color_bg": "#b3241e",
-          "message_color_text": "#ffffff"
+          "message_color_text": "#f0f0f0"
         }
       },
       "16128850157b6ec94b": {
@@ -591,6 +593,20 @@
       "page-sections-1": {
         "type": "page-sections-1",
         "blocks": {
+          "1d3b9df9-25d7-40e2-a24d-56a869d8ba3c": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WeineVorFreude-72.jpg",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weine vor Freude 2021",
+              "text": "19. - 21. August",
+              "link": "shopify:\/\/pages\/weine-vor-freude-2021",
+              "overlay_strength": 30,
+              "height": "medium",
+              "width": "1\/2"
+            }
+          },
           "0e6c16e9-c4db-4e14-b819-e361cd3cee21": {
             "type": "text-image",
             "settings": {
@@ -691,6 +707,7 @@
           }
         },
         "block_order": [
+          "1d3b9df9-25d7-40e2-a24d-56a869d8ba3c",
           "0e6c16e9-c4db-4e14-b819-e361cd3cee21",
           "4529125f-182c-4951-a5ce-6a477485a977",
           "46b1cc5d-acd6-4aa8-a53d-7283f50c5b51",
@@ -1750,7 +1767,7 @@
           "16171767613b4b0856-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Startseite_flexible_Weinproben_729x534_92d26d32-9f33-4a1f-b530-3eecfcb5820a.png",
+              "image": "shopify:\/\/shop_images\/Collage_startseite_DWK3.png",
               "bg_color": "#f0f0f0",
               "title": "Flexible Weinproben",
               "desc": "<p>Ihr habt Lust auf eine Weinprobe, möchtet euch aber nicht auf einen bestimmten Termin festlegen? Dann ist die flexible Weinprobe perfekt für euch. Wir haben Weinproben aufgezeichnet, die ihr nun jederzeit ansehen könnt. Die Aufzeichnung erhaltet ihr in einem Paket mit den passenden Weinen.<\/p><p>Der Vorteil: Ihr seid zeitlich flexibel, terminlich ungebunden und könnt Pausen machen, wann immer ihr wollt!<\/p>",
@@ -1762,10 +1779,10 @@
           "43eb5e8f-3758-434e-bd60-72e68b9759ec": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/var-B.jpg",
+              "image": "shopify:\/\/shop_images\/Gak_Startseite.png",
               "bg_color": "#f0f0f0",
               "title": "Glück auf Küwee",
-              "desc": "<p>Wir haben mit verschiedenen Weingütern unsere eigene Weinlinie konzipiert. Jede Cuvée hat ihren eigenen Charakter, mit dem sie uns und auch das Ruhrgebiet repräsentiert. Eins haben sie aber alle gemeinsam - sie schmecken köstlich!<\/p>",
+              "desc": "<p>Wir haben mit verschiedenen Weingütern unsere eigene Weinlinie konzipiert. Jede Cuvée hat ihren eigenen Charakter, mit dem sie uns und auch das Ruhrgebiet repräsentiert. Eins haben sie aber alle gemeinsam - Sie schmecken köstlich!<\/p>",
               "video": "",
               "link_title": "Zu den Weinen",
               "link": "https:\/\/weine-vor-freude.myshopify.com\/collections\/gluck-auf-kuwee?ose=false"
@@ -1819,7 +1836,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "text": "<p><strong>Weine vor Freude geht in die achte Runde – aber anders!<\/strong><\/p><p>Vom <strong>19.-21. August<\/strong> laden wir euch zu einer abwechslungsreichen und <strong>pandemiekonformen Version<\/strong> unseres beliebten <strong>urbanen Weinfestivals<\/strong> in Bochum ein. In gewohnt <strong>lockerer Atmosphäre <\/strong>möchten wir mit euch ein paar spannende <strong>Verkostungen<\/strong> von <strong>Weinen ausgesuchter Winzer:innen <\/strong>und <strong>Weinmacher:innen<\/strong> aus Deutschland erleben. <br\/><br\/>Aufgrund der hohen Nachfrage wird zusätzlich zu den Veranstaltungen in der <strong>Rotunde<\/strong> (19.-21.08.) am 20.08. <strong>eine weitere Verkostung in der benachbarten Halle der Rotunde <\/strong>stattfinden. Am Samstag, dem 21.08. konnten wir darüber hinaus <strong>zwei zusätzliche Veranstaltungen im Riff<\/strong> organisieren.<\/p><p>Bei den <strong>Zusatzveranstaltungen<\/strong> in der Rotunde und im Riff dabei sind: <\/p><p>- <a href=\"https:\/\/vinyes.de\/\" target=\"_blank\" title=\"Vinyes\">Gerrit und Henrik von Vinyes<\/a> <br\/>- <a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-j-g-orb-westhofen\" target=\"_blank\" title=\"Wein vor Freude Weingut Orb \">Jan und Jens vom Weingut Orb<\/a><br\/>- <a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-anton-herxheim\" target=\"_blank\" title=\"Weine vor Freude Weingut Anton\">Sandra und Matthias vom Weingut Anton<\/a> <br\/>- <a href=\"https:\/\/weine-vor-freude.de\/\" target=\"_blank\" title=\"Startseite Weine vor Freude\">Christina von Weine vor Freude<\/a> <\/p>",
+              "text": "<p><strong>Weine vor Freude geht in die achte Runde – aber anders!<\/strong><\/p><p>Vom <strong>19.-21. August<\/strong> laden wir euch zu einer abwechslungsreichen und <strong>pandemiekonformen Version<\/strong> unseres beliebten <strong>urbanen Weinfestivals<\/strong> in Bochum ein. In gewohnt <strong>lockerer Atmosphäre <\/strong>möchten wir mit euch ein paar spannende <strong>Verkostungen<\/strong> von <strong>Weinen ausgesuchter Winzer:innen <\/strong>und <strong>Weinmacher:innen<\/strong> aus Deutschland erleben. <br\/><br\/>Aufgrund der hohen Nachfrage wird zusätzlich zu den Veranstaltungen in der <strong>Rotunde<\/strong> (19.-21.08.) am 20.08. <strong>eine weitere Verkostung in der benachbarten Halle der Rotunde <\/strong>stattfinden. Am Samstag, dem 21.08. konnten wir darüber hinaus <strong>zwei zusätzliche Veranstaltungen im Riff<\/strong> organisieren.<\/p><p>Bei den <strong>Zusatzveranstaltungen<\/strong> in der Rotunde und im Riff dabei sind: <\/p><p>- <a href=\"https:\/\/weine-vor-freude.de\/pages\/vinyes-ebringen\" target=\"_blank\" title=\"Weine vor Freude Vinyes\">Gerrit und Henrik von Vinyes<\/a> <br\/>- <a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-j-g-orb-westhofen\" target=\"_blank\" title=\"Weine vor Freude Weingut Orb \">Jan und Jens vom Weingut Orb<\/a><br\/>- <a href=\"https:\/\/weine-vor-freude.de\/pages\/weingut-anton-herxheim\" target=\"_blank\" title=\"Weine vor Freude Weingut Anton\">Sandra und Matthias vom Weingut Anton<\/a> <br\/>- <a href=\"https:\/\/weine-vor-freude.de\/pages\/weine-vor-freude\" target=\"_blank\" title=\"Weine vor Freude \">Christina von Weine vor Freude<\/a> <\/p>",
               "link_title": "Learn more",
               "link": "",
               "align": "left",
@@ -1867,7 +1884,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "text": "<p><strong>Das Besondere<\/strong>: Ihr könnt es euch mit euren <strong>Freund:innen<\/strong> an einem Tisch bequem machen und euch von unseren <strong>Winzer:innen<\/strong> und <strong>Weinmacher:innen<\/strong> mit ihren Weinen versorgen lassen. Sie werden euch je nach Länge des Events <strong>6-8 gute Tropfen<\/strong> aus ihrem <strong>vielseitigen Portfolio<\/strong> präsentieren und diese auch <strong>erklären<\/strong>.<\/p><p>Bei Interesse stehen sie euch selbstverständlich <strong>Frage und Antwort<\/strong>. Ihr wolltet schon immer mal wissen, wie der Wein von der Rebe in die Flasche kommt? Hier habt ihr die <strong>Gelegenheit<\/strong> alles darüber zu <strong>erfahren<\/strong>!<\/p><p>Es klingt nicht nur gut, <strong>es wird auch richtig gut!<\/strong> Wir können es <strong>kaum erwarten<\/strong>.<\/p>",
+              "text": "<p><strong>Das Besondere<\/strong>: Ihr könnt es euch mit euren <strong>Freund:innen<\/strong> an einem Tisch bequem machen und euch von unseren <strong>Winzer:innen<\/strong> und <strong>Weinmacher:innen<\/strong> mit ihren Weinen versorgen lassen. Sie werden euch je nach Länge des Events <strong>6-9 gute Tropfen<\/strong> aus ihrem <strong>vielseitigen Portfolio<\/strong> präsentieren und diese auch <strong>erklären<\/strong>.<\/p><p>Bei Interesse stehen sie euch selbstverständlich <strong>Frage und Antwort<\/strong>. Ihr wolltet schon immer mal wissen, wie der Wein von der Rebe in die Flasche kommt? Hier habt ihr die <strong>Gelegenheit<\/strong> alles darüber zu <strong>erfahren<\/strong>!<\/p><p>Es klingt nicht nur gut, <strong>es wird auch richtig gut!<\/strong> Wir können es <strong>kaum erwarten<\/strong>.<\/p>",
               "link_title": "Learn more",
               "link": "",
               "align": "left",
@@ -1894,7 +1911,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "text": "<p>Besorgt eure <strong>terminierten Tickets<\/strong> bitte unbedingt <strong>im Vorhinein<\/strong>, wir haben <strong>keine Abendkasse!<\/strong> Insgesamt gibt es <strong>nur eine limitierte Anzahl an Tickets<\/strong>, also nichts wie los!<\/p><p>Damit Abstands- und Kontaktbeschränkungen eingehalten werden, können wir Tickets jeweils nur in <strong>Zweierschritten <\/strong>(Zweier-, Vierer- und Sechser-Ticket) verkaufen. <\/p><p>Sucht euch einfach eines der folgenden <strong>Events <\/strong>aus und freut euch auf einen interessanten <strong>Weinabend<\/strong>:<\/p><p><strong>Zusatztermine:<\/strong><\/p><p>In der zweiten Halle der Rotunde: <\/p><p>-  <strong>Freitag, 20.08., 17:30-20:00 Uhr<\/strong>, 150 Minuten – 8 Weine + Begrüßungsgetränk (25€)<\/p><p>Im Riff:<\/p><p>- <strong> Samstag, 21.08., 16:00-18:30 Uhr<\/strong>, 150 Minuten – 8 Weine + Begrüßungsgetränk (25€)<br\/>-  <strong>Samstag, 21.08., 19:00-21:30 Uh<\/strong>r, 150 Minuten – 8 Weine + Begrüßungsgetränk (25€)<strong> <\/strong><\/p>",
+              "text": "<p>Besorgt eure <strong>terminierten Tickets<\/strong> bitte unbedingt <strong>im Vorhinein<\/strong>, wir haben <strong>keine Abendkasse!<\/strong> Insgesamt gibt es <strong>nur eine limitierte Anzahl an Tickets<\/strong>, also nichts wie los!<\/p><p>Damit Abstands- und Kontaktbeschränkungen eingehalten werden, können wir Tickets jeweils nur in <strong>Zweierschritten <\/strong>(Zweier-, Vierer- und Sechser-Ticket) verkaufen. <\/p><p>Sucht euch einfach eines der folgenden <strong>Events <\/strong>aus und freut euch auf einen interessanten <strong>Weinabend<\/strong>:<\/p><p><strong>Zusatztermine:<\/strong><\/p><p>In der zweiten Halle der Rotunde: <\/p><p>-  <strong>Freitag, 20.08., 17:30-20:00 Uhr<\/strong>, 150 Minuten – 9 Weine + Begrüßungsgetränk (25€)<\/p><p>Im Riff:<\/p><p>- <strong> Samstag, 21.08., 16:00-18:30 Uhr<\/strong>, 150 Minuten – 9 Weine + Begrüßungsgetränk (25€)<br\/>-  <strong>Samstag, 21.08., 19:00-21:30 Uh<\/strong>r, 150 Minuten – 9 Weine + Begrüßungsgetränk (25€)<strong> <\/strong><\/p>",
               "link_title": "Learn more",
               "link": "",
               "align": "left",
