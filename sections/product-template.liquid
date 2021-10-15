@@ -280,7 +280,7 @@
                                     {% unless section.settings.layout == 'full' %}
                                         <div class="product-single__classic-title">
                                             <div class="section__title{% if section.settings.show_vendor %} section__title--vendor{% endif %} js-product-title">
-                                                <h1 class="section__title-text product-single__title-text">{{ product.title }}</h1>
+                                                <h1 class="section__ product-single__title-text">{{ product.title }}</h1>
                                                 {% if section.settings.show_vendor %}
                                                     <h4 class="section__title-desc product-single__title-desc">{{ product.vendor | link_to_vendor }}</h4>
                                                 {% endif %}
@@ -360,7 +360,19 @@
 
                                             </div>
 
-                                            <div class="tax-note">{{ 'deutschland.tax_note_html' | t }}</div>
+                                            <!-- <div class="tax-note">{{ 'deutschland.tax_note_html' | t }}</div> -->
+                                            <div class="tax-note">
+                                              {%- assign versandkostenfrei = false -%}
+                                              {%- for tag in product.tags -%}
+                                              {%- if tag contains 'versandkostenfrei' -%}
+                                              kostenloser Versand - inkl. MwSt.
+                                              {%- assign versandkostenfrei = true -%}
+                                              {%- endif -%}
+                                              {%- endfor -%}
+                                              {%- if versandkostenfrei == false -%}
+                                              {{ 'deutschland.tax_note_html' | t }}
+                                              {%- endif -%}
+                                            </div>
                                             <div class="tax-note">
                                                 {%- assign lieferinfo = false -%}              
                                                 {%- for tag in product.tags -%}
