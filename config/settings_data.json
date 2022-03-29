@@ -101,13 +101,6 @@
               "show_social": true
             }
           },
-          "fd53cda5-465a-4981-95cc-e08e100f1ee7": {
-            "type": "linklist",
-            "settings": {
-              "title": "Online Weinproben",
-              "linklist": "wichtiges"
-            }
-          },
           "1494463355206": {
             "type": "linklist",
             "settings": {
@@ -125,7 +118,6 @@
         },
         "block_order": [
           "1494343958665",
-          "fd53cda5-465a-4981-95cc-e08e100f1ee7",
           "1494463355206",
           "1494343961341"
         ],
@@ -399,19 +391,21 @@
       },
       "1566456250311": {
         "type": "home-slideshow",
+        "disabled": true,
         "blocks": {
           "1566456250311-1": {
             "type": "image",
+            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/OWP_Benefiz-web.jpg",
-              "image_mobile": "shopify:\/\/shop_images\/OWP-Benefiz.jpg",
+              "image": "shopify:\/\/shop_images\/weinprobe-schneiderfritz_foto.png",
+              "image_mobile": "shopify:\/\/shop_images\/weinprobe-schneiderfritz.png",
               "image_alignment": "center",
               "alignment": "left",
               "text_color": "white",
-              "title": "Benefiz Online Weinprobe Ahrtal",
-              "text": "<p>Am 12.11.2021 veranstalten wir ab 20 Uhr die <strong>Benefiz Online-Weinprobe „Ahrtal“<\/strong> mit den <strong>Weingütern Gebrüder Bertram<\/strong> und <strong>Kloster Marienthal<\/strong>. Für jedes verkaufte Paket <strong>spenden wir 5,50 €.<\/strong><\/p>",
+              "title": "Online Weinprobe mit Martin Schneiderfritz",
+              "text": "<p>Am 24.09. haben wir Martin vom Weingut Schneiderfritz bei uns zu Gast, der uns in die wunderbare Welt der Weißweine entführt. Martin hat uns vier Weine mitgebracht, die wir an dem Abend probieren werden.<\/p>",
               "link_title": "Zur Weinprobe",
-              "link": "https:\/\/weine-vor-freude.de\/products\/benefiz-online-weinprobe-ahrtal?utm_source=website&utm_medium=banner&utm_campaign=ahrtal&utm_content=home"
+              "link": "https:\/\/weine-vor-freude.de\/products\/online-weinprobe-schneiderfritz?utm_source=website&utm_medium=banner&utm_campaign=weinprobe-schneiderfritz"
             }
           }
         },
@@ -548,8 +542,8 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "Benefiz Online-Weinprobe \"Ahrtal\" - Jetzt Paket sichern und den Weinanbau der betroffenen Region unterstützen!",
-          "message_link": "https:\/\/weine-vor-freude.de\/products\/benefiz-online-weinprobe-ahrtal?utm_source=website&utm_medium=banner&utm_campaign=ahrtal&utm_content=announcementbar",
+          "message_text": "Digitale Weinproben für zu Hause - Weinpakete + Video - ab 37 € inkl. Versand - Jetzt neue Pakete mit den Weingütern Orb, Peth und Rummel",
+          "message_link": "shopify:\/\/collections\/flexible-weinproben",
           "message_color_bg": "#b3241e",
           "message_color_text": "#f0f0f0"
         }
