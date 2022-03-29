@@ -385,11 +385,15 @@
                                                 {{ 'deutschland.delivery_note' | t }}
                                                 {%- endif -%}
                                             </div>
-                                            <!-- {% if current_variant.inventory_management == "shopify" and current_variant.inventory_policy != "continue" %}
+                                            {%- for tag in product.tags -%}
+                                            {%- if tag == 'amount' -%}
+                                            {% if current_variant.inventory_management == "shopify" and current_variant.inventory_policy != "continue" %}
                                             <div id="variant-inventory" >
                                               Es sind nur noch {{ current_variant.inventory_quantity }} Produkte verfügbar.
                                             </div>
-                                            {% endif %} -->
+                                            {% endif %}
+                                            {%- endif -%}
+                                            {%- endfor -%}
                                             {% if section.settings.show_quantity_selector %}
                                                 <div class="product-single__qty">
                                                     <label for="Quantity" class="quantity-selector">{{ 'products.product.quantity' | t }}</label>
