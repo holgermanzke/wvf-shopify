@@ -395,17 +395,20 @@
                                             {%- endif -%}
                                             {%- endfor -%}
                                             {% if section.settings.show_quantity_selector %}
-                                                <div class="product-single__qty">
-                                                    <label for="Quantity" class="quantity-selector">{{ 'products.product.quantity' | t }}</label>
-                                                    <div class="product-single__qty-input">
-                                                        <input type="number" id="Quantity" name="quantity" value="1" min="1" class="quantity-selector">
-                                                    </div>
-                                                </div>
+                                            <div class="product-single__qty">
+                                              <label for="Quantity" class="quantity-selector">{{ 'products.product.quantity' | t }}</label>
+                                              <div class="product-single__qty-input">
+                                                <input type="number" id="Quantity" name="quantity" value="1" min="1" class="quantity-selector">
+                                              </div>
+                                            </div>
                                             {% endif %}
-
                                             {% if section.settings.show_inventory %}
+                                              {% if product.tags contains 'amount'%}
+                                                {% else %}
                                                 <p class="product-single__stock-note js-price-stock-note" data-qty-limit="{{ section.settings.inventory_limit }}" {% if current_variant.inventory_management == "shopify" and current_variant.available %}{% unless current_variant.inventory_quantity <= section.settings.inventory_limit %} style="display:none;"{% endunless %}{% endif %}>{{ 'products.product.qty_notice_html' | t: count: current_variant.inventory_quantity }}</p>
+                                              {% endif %}
                                             {% endif %}
+                                                  
 
                                             <div class="product-single__add js-product-buttons{% unless product.available %} product-single__add--sold{% endunless %}">
 
