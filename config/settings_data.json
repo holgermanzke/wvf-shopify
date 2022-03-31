@@ -1025,6 +1025,21 @@
               "width": "1\/3"
             }
           },
+          "fd523dfc-4fc4-4857-8d0d-b9c327b58dbf": {
+            "type": "text-image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/GebruederMathis.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Gebrüder Mathis - Merdingen",
+              "text": "",
+              "link": "https:\/\/www.weine-vor-freude.de\/weingut-gebruder-mathis-merdingen",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
           "947bae27-1aaa-4943-bd01-5d56a11d856e": {
             "type": "text-image",
             "settings": {
@@ -1062,6 +1077,21 @@
               "title": "Weingut Keber Kolling - Sommerloch",
               "text": "",
               "link": "shopify:\/\/pages\/weingut-keber-kolling-sommerloch",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "b8119513-eadc-4f7c-88ab-ccee2bd836f3": {
+            "type": "text-image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Klosterhof-Loesch.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Klosterhof - Worms-Abenheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-klosterhof-worms-abenheim",
               "overlay_strength": 30,
               "height": "small",
               "width": "1\/3"
@@ -1193,6 +1223,20 @@
               "width": "1\/3"
             }
           },
+          "201d7deb-a21b-4a06-892e-f65a9eeacd23": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Ritzheim.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Ritzheim - Uelversheim",
+              "text": "",
+              "link": "shopify:\/\/pages\/weingut-ritzheim-uelversheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
           "193f2405-9a24-4274-88e6-9173025189f2": {
             "type": "text-image",
             "settings": {
@@ -1207,15 +1251,15 @@
               "width": "1\/3"
             }
           },
-          "201d7deb-a21b-4a06-892e-f65a9eeacd23": {
+          "dcd5622c-204b-47d7-83ad-91d9932571f5": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
-              "image": "shopify:\/\/shop_images\/Ritzheim.png",
               "image_alignment": "center",
               "text_alignment": "bottom",
-              "title": "Weingut Ritzheim - Uelversheim",
+              "title": "Weingut Roth - Happenbach",
               "text": "",
-              "link": "shopify:\/\/pages\/weingut-ritzheim-uelversheim",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-roht-happenbach",
               "overlay_strength": 30,
               "height": "small",
               "width": "1\/3"
@@ -1486,6 +1530,36 @@
               "height": "small",
               "width": "1\/3"
             }
+          },
+          "4f4316b7-f1c3-4fb2-94d7-1d0f9ab04713": {
+            "type": "text-image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Franz_Xaver.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Franz Xaver - Waldkirch-Buchholz",
+              "text": "",
+              "link": "https:\/\/www.weine-vor-freude.de\/weingut-franz-xaver-waldkirch-buchholz",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "898165e8-85c4-46ea-b778-b1b2f67e2600": {
+            "type": "text-image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/weingut-gerharz-hochthurn_1.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Gerharz-Hochthurn - Gau-Algesheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-gerharz-hochthurn-gau-algesheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "2\/3"
+            }
           }
         },
         "block_order": [
@@ -1510,9 +1584,11 @@
           "7d8ae287-4d79-4736-b2f6-d7f8704de80d",
           "68ff9a9e-a670-4f0e-b098-f3c45ef9f9c5",
           "c6d31167-460a-47cc-9a37-b9ef053309ed",
+          "fd523dfc-4fc4-4857-8d0d-b9c327b58dbf",
           "947bae27-1aaa-4943-bd01-5d56a11d856e",
           "91fb4cf7-d39a-4448-99fd-b2a07429391f",
           "71aee0e2-c1ed-42da-8272-db390e1af47f",
+          "b8119513-eadc-4f7c-88ab-ccee2bd836f3",
           "eea097bd-8650-4de1-9b0d-0efca0451380",
           "05ee9791-eb1b-434f-bb5e-3da56d7a9ee5",
           "320b2f49-bd57-407e-bc44-a894de5bc7d9",
@@ -1522,8 +1598,9 @@
           "c0945775-46cc-4161-923f-884fd7d883ac",
           "5c6ca735-5117-4337-8d80-d45d6c0c95bf",
           "993862fa-d8ac-48fe-a480-672586963222",
-          "193f2405-9a24-4274-88e6-9173025189f2",
           "201d7deb-a21b-4a06-892e-f65a9eeacd23",
+          "193f2405-9a24-4274-88e6-9173025189f2",
+          "dcd5622c-204b-47d7-83ad-91d9932571f5",
           "46e8a604-c913-4cfd-adcc-f4e1c0546c5a",
           "220d5f48-2011-482d-82ee-c69c73adb503",
           "d70474b1-3a7d-442d-8ea9-a133525c8180",
@@ -1542,7 +1619,9 @@
           "243e4b43-700d-485b-9dd9-f8cad188ca4d",
           "2f2ae5c3-edaa-4bd7-9e98-3d796169c22d",
           "c5a8bd28-7d20-4643-9b7b-260c3f59077e",
-          "908d76d8-5bca-4d84-af28-845d46a4c5ca"
+          "908d76d8-5bca-4d84-af28-845d46a4c5ca",
+          "4f4316b7-f1c3-4fb2-94d7-1d0f9ab04713",
+          "898165e8-85c4-46ea-b778-b1b2f67e2600"
         ],
         "settings": {
           "container": "medium"
