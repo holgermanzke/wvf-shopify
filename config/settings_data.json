@@ -401,6 +401,7 @@
       },
       "1566456250311": {
         "type": "home-slideshow",
+        "disabled": true,
         "blocks": {
           "1566456250311-1": {
             "type": "image",
@@ -550,8 +551,8 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "Am 08.04.2022 um 20 Uhr findet endlich wieder ein Live Event statt: unser Bochum Battle - das Tasting der Weinhauptstadt des Ruhrgebiets 😊 🍷❤️",
-          "message_link": "https:\/\/weine-vor-freude.de\/products\/bochum-battle",
+          "message_text": "Vom 19.-21.05.2022 findet unser Weine vor Freude Festival endlich wieder statt! Hier gehts zu den Tickets. 😊 🍷❤️",
+          "message_link": "https:\/\/weine-vor-freude.de\/products\/festival-tickets-2022",
           "message_color_bg": "#b3241e",
           "message_color_text": "#f0f0f0"
         }
@@ -2050,8 +2051,8 @@
       }
     },
     "content_for_index": [
-      "1566456250311",
       "161493571403d914c3",
+      "1566456250311",
       "1616160181dfb3d68b",
       "161347815730dfdfc1",
       "1566456283593",
