@@ -1631,8 +1631,8 @@ body:not(.template-index) .giftcard-wrapper,
    #COLLECTION
    ========================================================================== */
 .collection__header-info {
-  width: 50%;
-  max-width: 600px;
+  width: 75%;
+  /* max-width: 600px; */
   background: var(--color--bg);
   padding: 24px;
   padding-left: 0;
