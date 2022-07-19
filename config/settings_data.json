@@ -377,7 +377,8 @@
           "title": "Was unsere Kunden sagen",
           "style_desktop": "carousel",
           "style_mobile": "carousel",
-          "link_title": "Shop now"
+          "link_title": "Shop now",
+          "link": ""
         }
       },
       "product-sections": {
@@ -401,20 +402,19 @@
       },
       "1566456250311": {
         "type": "home-slideshow",
-        "disabled": true,
         "blocks": {
           "1566456250311-1": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_nur_Foto_10.png",
-              "image_mobile": "shopify:\/\/shop_images\/MicrosoftTeams-image_1_452825ff-8ab1-49bc-b206-a05ebf6f812d.png",
+              "image": "shopify:\/\/shop_images\/Banner_nur_Foto_850996da-4005-4dd3-ab4e-04cc7dbe7ee0.png",
+              "image_mobile": "shopify:\/\/shop_images\/BANNERWvF-Messe-Samstag-Web-054_BANNER.jpg",
               "image_alignment": "top",
               "alignment": "left",
               "text_color": "white",
-              "title": "Live Event",
-              "text": "<p>Am 08.04.2022 um 20 Uhr haben wir eine Weinprobe der besonderen Art für euch: das Bochum Battle - Das Tasting der Weinhauptstadt des Ruhrgebiets! Seid dabei, wenn wir gegen Le Kork und Julians Wein in den Verkostungs-Ring steigen.<\/p>",
-              "link_title": "Zur Weinprobe",
-              "link": "https:\/\/weine-vor-freude.de\/products\/bochum-battle"
+              "title": "Urbanes Weinfest 2022",
+              "text": "<p>Am <strong>19. August 2022<\/strong> feiern wir eine Premiere! Erstmalig veranstanstalten wir unser <strong>Urbanes Weinfest.<\/strong> Mit dabei sind <strong>sechs Winzer:innen<\/strong> aus ganz Deutschland. Es kann in gemütlicher Runde nach Herzenslust probiert werden und auch für den <strong>kleinen Hunger<\/strong> haben wir gesorgt. Im Anschluss soll der Tag seinen krönenden Abschluss bei unserer <strong>After-Party \"Schorletanz und Firlefanz\"<\/strong> finden! <\/p>",
+              "link_title": "Jetzt Tickets sichern!",
+              "link": "https:\/\/weine-vor-freude.de\/collections\/all\/products\/urbanes-weinfest-2022"
             }
           }
         },
@@ -551,8 +551,8 @@
         "settings": {
           "message_show": true,
           "home_page_only": false,
-          "message_text": "Vom 19.-21.05.2022 findet unser Weine vor Freude Festival endlich wieder statt! Hier gehts zu den Tickets. 😊 🍷❤️",
-          "message_link": "https:\/\/weine-vor-freude.de\/products\/festival-tickets-2022",
+          "message_text": "Am 19. August 2022 feiern wir mit unserem Urbanen Weinfest Premiere! Sei dabei und sichere dir jetzt schon Tickets! 😊🍷❤️",
+          "message_link": "https:\/\/weine-vor-freude.de\/products\/urbanes-weinfest-2022",
           "message_color_bg": "#b3241e",
           "message_color_text": "#f0f0f0"
         }
@@ -602,6 +602,20 @@
       "page-sections-1": {
         "type": "page-sections-1",
         "blocks": {
+          "99afae9c-bc63-455c-aeaf-92bf94ef5301": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Cover_Wimmelbild_klein.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weine vor Freude 2022",
+              "text": "19. - 21. Mai",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weine-vor-freude-2022",
+              "overlay_strength": 30,
+              "height": "medium",
+              "width": "1\/2"
+            }
+          },
           "1d3b9df9-25d7-40e2-a24d-56a869d8ba3c": {
             "type": "text-image",
             "settings": {
@@ -716,6 +730,7 @@
           }
         },
         "block_order": [
+          "99afae9c-bc63-455c-aeaf-92bf94ef5301",
           "1d3b9df9-25d7-40e2-a24d-56a869d8ba3c",
           "0e6c16e9-c4db-4e14-b819-e361cd3cee21",
           "4529125f-182c-4951-a5ce-6a477485a977",
@@ -732,15 +747,30 @@
       "page-sections-2": {
         "type": "page-sections-2",
         "blocks": {
-          "5d9a7660-7ce3-44a2-83c4-26b0444df2b0": {
+          "0160e6c8-fb07-403d-ab83-9145baca7a8d": {
             "type": "text-image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Antweiler_01.png",
-              "image_alignment": "bottom",
+              "image": "shopify:\/\/shop_images\/Gakglas_480x480_1.jpg",
+              "image_alignment": "center",
               "text_alignment": "bottom",
-              "title": "Weingut Antweiler - Volxheim",
+              "title": "Weine vor Freude",
               "text": "",
-              "link": "shopify:\/\/pages\/weingut-antweiler-volxheim",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weine-vor-freude",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "36504e03-4c5b-4714-9f4d-eb9b6dcbc857": {
+            "type": "text-image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Luckenhalter_01.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Amselhof - Knöringen",
+              "text": "",
+              "link": "shopify:\/\/pages\/weingut-amselhof-knoeringen",
               "overlay_strength": 30,
               "height": "small",
               "width": "1\/3"
@@ -760,15 +790,15 @@
               "width": "1\/3"
             }
           },
-          "36504e03-4c5b-4714-9f4d-eb9b6dcbc857": {
+          "5d9a7660-7ce3-44a2-83c4-26b0444df2b0": {
             "type": "text-image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Luckenhalter_01.png",
-              "image_alignment": "center",
+              "image": "shopify:\/\/shop_images\/Weingut_Antweiler.jpg",
+              "image_alignment": "bottom",
               "text_alignment": "bottom",
-              "title": "Weingut Amselhof - Knöringen",
+              "title": "Weingut Antweiler - Volxheim",
               "text": "",
-              "link": "shopify:\/\/pages\/weingut-amselhof-knoeringen",
+              "link": "shopify:\/\/pages\/weingut-antweiler-volxheim",
               "overlay_strength": 30,
               "height": "small",
               "width": "1\/3"
@@ -776,6 +806,7 @@
           },
           "4517aa59-8f50-486c-a3e6-3752ce72fccc": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Behind_The_Grapes_01.png",
               "image_alignment": "center",
@@ -790,6 +821,7 @@
           },
           "cbb9dffd-cb9f-49e9-855a-b171c3802ba4": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Bender_01.png",
               "image_alignment": "center",
@@ -804,6 +836,7 @@
           },
           "1b58fddc-bb97-4c26-9ce0-6c38916d7bdb": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Bernhardt_1.png",
               "image_alignment": "center",
@@ -818,6 +851,7 @@
           },
           "751e16ca-65fa-4e52-9cb1-3f82022f76ba": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Burkhard_1.png",
               "image_alignment": "center",
@@ -832,6 +866,7 @@
           },
           "575618d0-64ea-44d6-88c1-e92e06c73fec": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Castel_Peter.png",
               "image_alignment": "center",
@@ -846,6 +881,7 @@
           },
           "e4f0fda6-0fd6-4ecc-8eb4-fc7ae66f5e3a": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Weingut_Chumderhof.png",
               "image_alignment": "center",
@@ -888,6 +924,7 @@
           },
           "07b54cd8-4add-4e12-9697-332f888fb4d6": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Maison.png",
               "image_alignment": "center",
@@ -916,6 +953,7 @@
           },
           "478c220e-e727-4746-86c8-f4b02f9c75f3": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Weingut-Erich-Braun-Sohne.png",
               "image_alignment": "center",
@@ -944,6 +982,7 @@
           },
           "a9ed6218-9267-4ee9-8343-109a6deab49f": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_1949-Bearbeitet_Volle_Aufloesung.png",
               "image_alignment": "center",
@@ -951,6 +990,34 @@
               "title": "Weinhaus Franz Hahn - Albersweiler",
               "text": "",
               "link": "shopify:\/\/pages\/weinhaus-franz-hahn-albersweiler",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "4f4316b7-f1c3-4fb2-94d7-1d0f9ab04713": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Franz_Xaver.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Franz Xaver - Waldkirch-Buchholz",
+              "text": "",
+              "link": "shopify:\/\/pages\/weingut-franz-xaver-waldkirch-buchholz",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "fd523dfc-4fc4-4857-8d0d-b9c327b58dbf": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/GebruederMathis.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Gebrüder Mathis - Merdingen",
+              "text": "",
+              "link": "shopify:\/\/pages\/weingut-gebruder-mathis-merdingen",
               "overlay_strength": 30,
               "height": "small",
               "width": "1\/3"
@@ -970,8 +1037,23 @@
               "width": "1\/3"
             }
           },
+          "898165e8-85c4-46ea-b778-b1b2f67e2600": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/weingut-gerharz-hochthurn_1.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Gerharz-Hochthurn - Gau-Algesheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-gerharz-hochthurn-gau-algesheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
           "1e9a39ef-8406-4252-a167-535286fe1496": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Weingut_Gindorf.png",
               "image_alignment": "center",
@@ -986,6 +1068,7 @@
           },
           "7d8ae287-4d79-4736-b2f6-d7f8704de80d": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Albert_Glas_5633d8e4-2413-4252-931c-7efc4725b428.png",
               "image_alignment": "top",
@@ -1014,6 +1097,7 @@
           },
           "c6d31167-460a-47cc-9a37-b9ef053309ed": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Grape_Garage_32a.png",
               "image_alignment": "top",
@@ -1026,37 +1110,9 @@
               "width": "1\/3"
             }
           },
-          "fd523dfc-4fc4-4857-8d0d-b9c327b58dbf": {
-            "type": "text-image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/GebruederMathis.png",
-              "image_alignment": "center",
-              "text_alignment": "bottom",
-              "title": "Weingut Gebrüder Mathis - Merdingen",
-              "text": "",
-              "link": "https:\/\/www.weine-vor-freude.de\/weingut-gebruder-mathis-merdingen",
-              "overlay_strength": 30,
-              "height": "small",
-              "width": "1\/3"
-            }
-          },
-          "947bae27-1aaa-4943-bd01-5d56a11d856e": {
-            "type": "text-image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Peter_Greif.png",
-              "image_alignment": "center",
-              "text_alignment": "bottom",
-              "title": "Weingut Peter Greif - Tawern Fellerich",
-              "text": "",
-              "link": "shopify:\/\/pages\/weingut-peter-greif-tawern-fellerich",
-              "overlay_strength": 30,
-              "height": "small",
-              "width": "1\/3"
-            }
-          },
           "91fb4cf7-d39a-4448-99fd-b2a07429391f": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Weingut_Grunewald_1.png",
               "image_alignment": "center",
@@ -1064,6 +1120,48 @@
               "title": "Weingut Eric Grünewald - Weiler bei Bingen",
               "text": "",
               "link": "shopify:\/\/pages\/weingut-eric-gruenewald-weiler-bei-bingen",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "86bb3099-ab01-4a17-8751-53db0666bb1a": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Max_Nuss.jpg",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Iulians Wein - Bochum",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/iulians-wein-bochum",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "908d76d8-5bca-4d84-af28-845d46a4c5ca": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Josef_Worner.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Josef Wörner - Edesheim",
+              "text": "",
+              "link": "shopify:\/\/pages\/weingut-josef-woerner-edesheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "b3bfee25-260e-4679-99bc-6fc4354f4a1b": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut_Orb.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut J.G. Orb - Westhofen",
+              "text": "",
+              "link": "shopify:\/\/pages\/weingut-j-g-orb-westhofen",
               "overlay_strength": 30,
               "height": "small",
               "width": "1\/3"
@@ -1100,6 +1198,7 @@
           },
           "eea097bd-8650-4de1-9b0d-0efca0451380": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/knappenhof.png",
               "image_alignment": "center",
@@ -1126,15 +1225,29 @@
               "width": "1\/3"
             }
           },
-          "320b2f49-bd57-407e-bc44-a894de5bc7d9": {
+          "6d6f362b-6587-4833-8839-b9c3069ce2bd": {
             "type": "text-image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Weingut_Lind.png",
+              "image": "shopify:\/\/shop_images\/pexels-laura-stanley-5644323_1.jpg",
               "image_alignment": "center",
               "text_alignment": "bottom",
-              "title": "Weingut Ökonomierat Lind - Rohrbach",
+              "title": "Weingut Kruppenbacher - Jugenheim",
               "text": "",
-              "link": "shopify:\/\/pages\/weingut-okonomierat-lind-rohrbach",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-kruppenbacher-jugenheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "fae93744-f344-43a8-acbc-7cc00f2b3450": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Le_Kork_Bar_-_Bochum_1.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Le Kork Bar - Bochum",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/le-kork-bar-bochum",
               "overlay_strength": 30,
               "height": "small",
               "width": "1\/3"
@@ -1142,6 +1255,7 @@
           },
           "a71036c1-f2a8-45dc-8d0e-d5b1013989ee": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/normales_Gr._foto_22__BE_222.png",
               "image_alignment": "center",
@@ -1156,6 +1270,7 @@
           },
           "92912099-d856-4c94-8123-802a9b542c91": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Matheus-Jun-2019-0140-min_1.png",
               "image_alignment": "center",
@@ -1168,15 +1283,15 @@
               "width": "1\/3"
             }
           },
-          "b3bfee25-260e-4679-99bc-6fc4354f4a1b": {
+          "17e91f55-7d0c-4ac5-8624-623b2232e026": {
             "type": "text-image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Weingut_Orb.png",
+              "image": "shopify:\/\/shop_images\/karsten-wurth-49aQgxkOrO4-unsplash.webp",
               "image_alignment": "center",
               "text_alignment": "bottom",
-              "title": "Weingut J.G. Orb - Westhofen",
+              "title": "Weingut Nehrbaß - Schornsheim",
               "text": "",
-              "link": "shopify:\/\/pages\/weingut-j-g-orb-westhofen",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-nehrbass-schornsheim",
               "overlay_strength": 30,
               "height": "small",
               "width": "1\/3"
@@ -1191,6 +1306,20 @@
               "title": "Weingut Oswald\/Pura Vida - Wahlheim",
               "text": "",
               "link": "shopify:\/\/pages\/weingut-oswald-pura-vida-wahlheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "947bae27-1aaa-4943-bd01-5d56a11d856e": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Peter_Greif.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Peter Greif - Tawern Fellerich",
+              "text": "",
+              "link": "shopify:\/\/pages\/weingut-peter-greif-tawern-fellerich",
               "overlay_strength": 30,
               "height": "small",
               "width": "1\/3"
@@ -1226,6 +1355,7 @@
           },
           "201d7deb-a21b-4a06-892e-f65a9eeacd23": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Ritzheim.png",
               "image_alignment": "center",
@@ -1240,6 +1370,7 @@
           },
           "193f2405-9a24-4274-88e6-9173025189f2": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Rolletter_214_1.png",
               "image_alignment": "center",
@@ -1254,8 +1385,8 @@
           },
           "dcd5622c-204b-47d7-83ad-91d9932571f5": {
             "type": "text-image",
-            "disabled": true,
             "settings": {
+              "image": "shopify:\/\/shop_images\/Luckenhalter_01_540x_1.webp",
               "image_alignment": "center",
               "text_alignment": "bottom",
               "title": "Weingut Roth - Happenbach",
@@ -1280,8 +1411,23 @@
               "width": "1\/3"
             }
           },
+          "4ee7c7da-9b5a-43d5-9a1a-76e465c576b6": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Rummel_2_480x480_814ee02f-28f8-42a7-a2e4-9c607b34429b.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Rummel - Hochstadt",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-rummel-hochstadt",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
           "220d5f48-2011-482d-82ee-c69c73adb503": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/222_1bc87d77-ba58-408a-8049-d9e99d0c6604.png",
               "image_alignment": "center",
@@ -1296,6 +1442,7 @@
           },
           "d70474b1-3a7d-442d-8ea9-a133525c8180": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Weingut-Schafer_1.png",
               "image_alignment": "center",
@@ -1336,8 +1483,23 @@
               "width": "1\/3"
             }
           },
+          "92d8e1bb-bf4c-4702-bd95-5ddf35a18c8c": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut-Schweder.jpg",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Schweder - Hochstadt",
+              "text": "",
+              "link": "shopify:\/\/pages\/weingut-schweder-hochstadt",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
           "40b3af1a-5c52-4957-8733-c025faac8758": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Scholler_1.png",
               "image_alignment": "center",
@@ -1352,6 +1514,7 @@
           },
           "ee41f6bc-fcb2-42cc-ac28-c62b08297b47": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Schreieck_1.png",
               "image_alignment": "center",
@@ -1378,22 +1541,9 @@
               "width": "1\/3"
             }
           },
-          "92d8e1bb-bf4c-4702-bd95-5ddf35a18c8c": {
-            "type": "text-image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Weingut-Schweder.jpg",
-              "image_alignment": "center",
-              "text_alignment": "bottom",
-              "title": "Weingut Schweder - Hochstadt",
-              "text": "",
-              "link": "shopify:\/\/pages\/weingut-schweder-hochstadt",
-              "overlay_strength": 30,
-              "height": "small",
-              "width": "1\/3"
-            }
-          },
           "ce88037a-42d8-46f9-bbfc-8a498d920999": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Pascal_Sohns_website.png",
               "image_alignment": "center",
@@ -1408,6 +1558,7 @@
           },
           "42b642c7-2700-42e5-a625-fe6f0e6f110e": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Weingut_Spies_1.png",
               "image_alignment": "center",
@@ -1422,6 +1573,7 @@
           },
           "0a185631-7c55-44d9-8439-b415bb29ac2f": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Weingut_Stoll.png",
               "image_alignment": "center",
@@ -1436,6 +1588,7 @@
           },
           "840475e9-c9e3-435c-a778-a4681209b93d": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Vinyes.png",
               "image_alignment": "center",
@@ -1450,6 +1603,7 @@
           },
           "0573cb15-80a8-48ad-ae18-cf9c14e7b841": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/NicoWeber.jpg",
               "image_alignment": "center",
@@ -1478,6 +1632,7 @@
           },
           "243e4b43-700d-485b-9dd9-f8cad188ca4d": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Weinsberger_Tal.png",
               "image_alignment": "center",
@@ -1492,6 +1647,7 @@
           },
           "2f2ae5c3-edaa-4bd7-9e98-3d796169c22d": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Weingut_Wisser.png",
               "image_alignment": "top",
@@ -1506,6 +1662,7 @@
           },
           "c5a8bd28-7d20-4643-9b7b-260c3f59077e": {
             "type": "text-image",
+            "disabled": true,
             "settings": {
               "image": "shopify:\/\/shop_images\/Weingut_Wittmann_1.png",
               "image_alignment": "center",
@@ -1518,55 +1675,36 @@
               "width": "1\/3"
             }
           },
-          "908d76d8-5bca-4d84-af28-845d46a4c5ca": {
+          "320b2f49-bd57-407e-bc44-a894de5bc7d9": {
             "type": "text-image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Josef_Worner.png",
+              "image": "shopify:\/\/shop_images\/Weingut_Lind.png",
               "image_alignment": "center",
               "text_alignment": "bottom",
-              "title": "Weingut Josef Wörner - Edesheim",
+              "title": "Weingut Ökonomierat Lind - Rohrbach",
               "text": "",
-              "link": "shopify:\/\/pages\/weingut-josef-woerner-edesheim",
+              "link": "shopify:\/\/pages\/weingut-okonomierat-lind-rohrbach",
               "overlay_strength": 30,
               "height": "small",
               "width": "1\/3"
             }
           },
-          "4f4316b7-f1c3-4fb2-94d7-1d0f9ab04713": {
-            "type": "text-image",
-            "disabled": true,
+          "83745c7d-7370-483d-bf77-c086f12ee666": {
+            "type": "button",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Franz_Xaver.png",
-              "image_alignment": "center",
-              "text_alignment": "bottom",
-              "title": "Weingut Franz Xaver - Waldkirch-Buchholz",
-              "text": "",
-              "link": "https:\/\/www.weine-vor-freude.de\/weingut-franz-xaver-waldkirch-buchholz",
-              "overlay_strength": 30,
-              "height": "small",
-              "width": "1\/3"
-            }
-          },
-          "898165e8-85c4-46ea-b778-b1b2f67e2600": {
-            "type": "text-image",
-            "disabled": true,
-            "settings": {
-              "image": "shopify:\/\/shop_images\/weingut-gerharz-hochthurn_1.png",
-              "image_alignment": "center",
-              "text_alignment": "bottom",
-              "title": "Weingut Gerharz-Hochthurn - Gau-Algesheim",
-              "text": "",
-              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-gerharz-hochthurn-gau-algesheim",
-              "overlay_strength": 30,
-              "height": "small",
-              "width": "2\/3"
+              "title": "👉🏼 zu den Austeller:innen der vergangenen Jahre 👈🏼",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/bisherige-aussteller",
+              "color": "light",
+              "size": "big",
+              "width": "1\/1"
             }
           }
         },
         "block_order": [
-          "5d9a7660-7ce3-44a2-83c4-26b0444df2b0",
-          "e54625af-e42f-4be5-bdd7-97910a9f8ea1",
+          "0160e6c8-fb07-403d-ab83-9145baca7a8d",
           "36504e03-4c5b-4714-9f4d-eb9b6dcbc857",
+          "e54625af-e42f-4be5-bdd7-97910a9f8ea1",
+          "5d9a7660-7ce3-44a2-83c4-26b0444df2b0",
           "4517aa59-8f50-486c-a3e6-3752ce72fccc",
           "cbb9dffd-cb9f-49e9-855a-b171c3802ba4",
           "1b58fddc-bb97-4c26-9ce0-6c38916d7bdb",
@@ -1580,37 +1718,44 @@
           "478c220e-e727-4746-86c8-f4b02f9c75f3",
           "7a9c6342-f737-495c-9f61-d921a049cb5e",
           "a9ed6218-9267-4ee9-8343-109a6deab49f",
+          "4f4316b7-f1c3-4fb2-94d7-1d0f9ab04713",
+          "fd523dfc-4fc4-4857-8d0d-b9c327b58dbf",
           "e80354d2-068b-424c-a363-ebcc1eac3d13",
+          "898165e8-85c4-46ea-b778-b1b2f67e2600",
           "1e9a39ef-8406-4252-a167-535286fe1496",
           "7d8ae287-4d79-4736-b2f6-d7f8704de80d",
           "68ff9a9e-a670-4f0e-b098-f3c45ef9f9c5",
           "c6d31167-460a-47cc-9a37-b9ef053309ed",
-          "fd523dfc-4fc4-4857-8d0d-b9c327b58dbf",
-          "947bae27-1aaa-4943-bd01-5d56a11d856e",
           "91fb4cf7-d39a-4448-99fd-b2a07429391f",
+          "86bb3099-ab01-4a17-8751-53db0666bb1a",
+          "908d76d8-5bca-4d84-af28-845d46a4c5ca",
+          "b3bfee25-260e-4679-99bc-6fc4354f4a1b",
           "71aee0e2-c1ed-42da-8272-db390e1af47f",
           "b8119513-eadc-4f7c-88ab-ccee2bd836f3",
           "eea097bd-8650-4de1-9b0d-0efca0451380",
           "05ee9791-eb1b-434f-bb5e-3da56d7a9ee5",
-          "320b2f49-bd57-407e-bc44-a894de5bc7d9",
+          "6d6f362b-6587-4833-8839-b9c3069ce2bd",
+          "fae93744-f344-43a8-acbc-7cc00f2b3450",
           "a71036c1-f2a8-45dc-8d0e-d5b1013989ee",
           "92912099-d856-4c94-8123-802a9b542c91",
-          "b3bfee25-260e-4679-99bc-6fc4354f4a1b",
+          "17e91f55-7d0c-4ac5-8624-623b2232e026",
           "c0945775-46cc-4161-923f-884fd7d883ac",
+          "947bae27-1aaa-4943-bd01-5d56a11d856e",
           "5c6ca735-5117-4337-8d80-d45d6c0c95bf",
           "993862fa-d8ac-48fe-a480-672586963222",
           "201d7deb-a21b-4a06-892e-f65a9eeacd23",
           "193f2405-9a24-4274-88e6-9173025189f2",
           "dcd5622c-204b-47d7-83ad-91d9932571f5",
           "46e8a604-c913-4cfd-adcc-f4e1c0546c5a",
+          "4ee7c7da-9b5a-43d5-9a1a-76e465c576b6",
           "220d5f48-2011-482d-82ee-c69c73adb503",
           "d70474b1-3a7d-442d-8ea9-a133525c8180",
           "6f38022d-00de-4fae-b5cf-9bdf53580063",
           "91602cf8-6bb0-43dc-82ef-de980ad81a30",
+          "92d8e1bb-bf4c-4702-bd95-5ddf35a18c8c",
           "40b3af1a-5c52-4957-8733-c025faac8758",
           "ee41f6bc-fcb2-42cc-ac28-c62b08297b47",
           "8a8936ea-ef0b-412f-8059-20c3310d92eb",
-          "92d8e1bb-bf4c-4702-bd95-5ddf35a18c8c",
           "ce88037a-42d8-46f9-bbfc-8a498d920999",
           "42b642c7-2700-42e5-a625-fe6f0e6f110e",
           "0a185631-7c55-44d9-8439-b415bb29ac2f",
@@ -1620,9 +1765,8 @@
           "243e4b43-700d-485b-9dd9-f8cad188ca4d",
           "2f2ae5c3-edaa-4bd7-9e98-3d796169c22d",
           "c5a8bd28-7d20-4643-9b7b-260c3f59077e",
-          "908d76d8-5bca-4d84-af28-845d46a4c5ca",
-          "4f4316b7-f1c3-4fb2-94d7-1d0f9ab04713",
-          "898165e8-85c4-46ea-b778-b1b2f67e2600"
+          "320b2f49-bd57-407e-bc44-a894de5bc7d9",
+          "83745c7d-7370-483d-bf77-c086f12ee666"
         ],
         "settings": {
           "container": "medium"
@@ -1688,8 +1832,8 @@
           "161493571403d914c3-2": {
             "type": "button",
             "settings": {
-              "title": "Zum Festival 2022",
-              "link": "https:\/\/weine-vor-freude.de\/products\/festival-tickets-2022",
+              "title": "Zum Festival Rückblick 2022",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weine-vor-freude-2022",
               "color": "primary",
               "size": "big",
               "width": "1\/2"
@@ -1889,13 +2033,13 @@
           "4abc6c43-f327-47a4-8034-1acb72ae038c": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Weingelee.png",
+              "image": "shopify:\/\/shop_images\/Wein_und_Grillen_3_1080x_1.jpg",
               "bg_color": "#f0f0f0",
-              "title": "Weinwissen: Weingelee - eine kleine Delikatesse",
-              "desc": "<p>Auf der Suche nach frischem Wind auf dem Frühstückstisch oder zum Kochen? Wie wäre es mit köstlichem Weingelee?<\/p>",
+              "title": "Weinwissen: Grillen - Weine für den Perfekten Grillabend",
+              "desc": "<p>Welcher Wein passt perfekt zu dem sommerlichen Grillabend und wie bekomme ich selbst am heißesten Sommertag den Wein angenehm kühl?<\/p>",
               "video": "",
               "link_title": "Zum Blogbeitrag",
-              "link": "https:\/\/weine-vor-freude.de\/blogs\/weinwissen\/weingelee"
+              "link": "https:\/\/weine-vor-freude.de\/blogs\/weinwissen\/wein-zum-grillen"
             }
           },
           "ffe4301d-9642-4088-8ee8-851eecfbe1af": {
@@ -1924,7 +2068,34 @@
             "type": "text",
             "settings": {
               "title": "",
-              "text": "<p><strong>Weine vor Freude geht in die neunte Runde!<br\/><br\/><\/strong>Vom <strong>19.-21. Mai 2022<\/strong> laden wir euch zu unsererem beliebten <strong>urbanen Weinfestival<\/strong> in die <strong>Rotunde <\/strong>Bochum ein. In gewohnt lockerer Atmosphäre könnt ihr bei uns viele Weine von unterschiedlichen <strong>Winzer:innen aus ganz Deutschland<\/strong> verkosten. Außerdem entführen wir euch mit spannenden <strong>Workshops <\/strong>und <strong>Vorträge <\/strong>in die Welt der Weine. <br\/><br\/>Wir freuen uns schon auf euch! ♥<\/p>",
+              "text": "<p><strong>Das Weine vor Freude Festival geht 2022 in die neunte R(ot)unde !<br\/><br\/><\/strong>Nach zwei Jahren Festival(zwangs)pause ist es endlich wieder so weit. Wir haben in den letzten Monaten geplant und geackert und freuen uns riesig, euch das <strong>Weine vor Freude Festival 2022<\/strong> zu präsentieren. Vom <strong>19.-21. Mai 2022<\/strong> laden wir euch standesgemäß in die Rotunde nach Bochum ein, um von über <strong>30 Weingütern <\/strong>etliche neue Weine und Spirituosen zu probieren.  Natürlich haben wir uns für euch noch etwas mehr einfallen lassen. Es wird informative und unterhaltsame <strong>Workshops<\/strong> von Winzer:innen rund um das Thema Wein und Getränke geben. Wenn ihr also unbedingt schonmal die passende Schokolade zum Wein essen wolltet oder euch immer gefragt habt, was der Unterschied zwischen Sekt, Secco und Champagner ist, dann ist der richtige Workshop für euch, dieses Jahr sicher dabei.  Für den sicher aufkommenden Hunger wird es einen <strong>Foodtruck <\/strong>geben, der euch mit etlichen Köstlichkeiten versorgen wird, die wunderbar zum Wein passen.  <\/p><p><\/p>",
+              "link_title": "Learn more",
+              "link": "",
+              "align": "center",
+              "width": "1\/1"
+            }
+          },
+          "8cf029ee-f974-436d-8371-485132442d33": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/MI_WVF2019_125_b722e2af-2995-4355-b315-c8fa93ef8fc6.jpg",
+              "link": "",
+              "width": "1\/2"
+            }
+          },
+          "343f2592-7456-432c-85cc-59cd88ab1d4d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/MI_WVF2019_115.jpg",
+              "link": "",
+              "width": "1\/2"
+            }
+          },
+          "6f1c8504-69e0-4ddc-adc5-d97171c0b4b8": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "text": "<p>Après Work – Avant Festival, übersetzt heißt das so viel wie: Wir stimmen uns gemeinsam mit den<strong> Brüdern Jan und Jens vom Weingut J.G. Orb<\/strong> am Mittwoch, den <strong>18.05.22<\/strong>, um <strong>18 Uhr in der Le Kork Bar<\/strong> auf die kommenden Festivaltage ein. Die Brüder<br\/>bringen ihre köstlichen Weine aus Rheinhessen mit. Neben der Expertise der beiden Winzer könnt ihr euch außerdem auf <strong>leckeres Essen und weiteren Wein <\/strong>von Le Kork freuen. <br\/>Ihr wollt dabei sein? Dann <strong>reserviert euch direkt einen Tisch <\/strong>in der Le Kork Bar und genießt einen außergewöhnlichen Abend. Reservierungen können über Resmio (<a href=\"https:\/\/bit.ly\/3LbemIF\">https:\/\/bit.ly\/3LbemIF<\/a>) oder <strong>telefonisch über 0234 90200011 <\/strong>getätigt werden. <\/p><p>  Wir wollen aber auch einen Beitrag dazu leisten, Natur und Ressourcen zu schonen. Im Rahmen der <strong>KORKampagne<\/strong> des <strong>NABU Deutschland<\/strong> werden wir eine <strong>Korkensammelstation<\/strong> auf dem Festivalgelände einrichten, um die (in Massen anfallenden) Korken am Festivalwochenende sinnvoll zu recyclen.  <\/p><p>So ein Wochenende soll aber nicht ohne gebührenden Abschluss zu Ende gehen, daher veranstalten wir dieses Jahr erstmalig unsere<strong> <\/strong><a href=\"https:\/\/weine-vor-freude.de\/products\/schorletanz-firlefanz-aftershowparty\" title=\"https:\/\/weine-vor-freude.de\/products\/schorletanz-firlefanz-aftershowparty\"><strong>Weine vor Freude Afterparty<\/strong><\/a>: Mit <strong>guter Musik<\/strong> und <strong>kalten Getränken<\/strong> wollen wir gemeinsam mit euch das Festival feierlich beenden. Auch bei der Party bleiben wir unserem Wein-Motto treu und haben etwas ganz Besonderes geplant: Wir tauschen das Bier gegen <strong>frisch gezapfte Weinschorle vom Fass <\/strong>aus. Das habt ihr noch nie probiert? Ein Grund mehr, euch unsere Party nicht entgehen zu lassen und mal bei den Jungs und Mädels von <strong>Ebb&Flow<\/strong> vorbei zu schauen, um köstliche Weinschorle zu trinken!  <\/p><p>Wir hoffen, ihr habt spätestens jetzt genau so viel Lust auf das Wochenende wie wir und bringt Durst gepaart mit guter Laune mit. <br\/><br\/><strong>Wir freuen uns schon auf euch! ♥<\/strong><\/p>",
               "link_title": "Learn more",
               "link": "",
               "align": "center",
@@ -1945,7 +2116,7 @@
             "type": "text",
             "settings": {
               "title": "",
-              "text": "<p>Bitte beachtet, dass aufgrund der Corona-Pandemie einige Auflagen dazu kommen könnten. Momentan können wir nicht vorhersagen, wie diese aussehen werden. Vielen Dank für euer Verständnis!<br\/><\/p>",
+              "text": "<p><strong>WICHTIG:<\/strong> Nach langem Überlegen haben wir uns dazu entschlossen, eine <strong>Testpflicht<\/strong> durchzuführen. So gibt es für niemanden eine Einschränkung im Festivalerlebnis und wir fühlen uns alle etwas sicherer auf der Veranstaltung. Bitte bringt für den Einlass einen <strong>tagesaktuellen Test<\/strong> einer offiziellen Corona Teststelle mit<strong> (+ Ausweisdokument)<\/strong>. Vielen Dank für euer Verständnis!<br\/><\/p>",
               "link_title": "Learn more",
               "link": "",
               "align": "center",
@@ -1962,14 +2133,6 @@
               "link": "",
               "align": "left",
               "width": "1\/1"
-            }
-          },
-          "8cf029ee-f974-436d-8371-485132442d33": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/MI_WVF2019_125_b722e2af-2995-4355-b315-c8fa93ef8fc6.jpg",
-              "link": "",
-              "width": "1\/2"
             }
           },
           "b6024470-0bd1-49be-bf89-75b9d690150a": {
@@ -1990,14 +2153,6 @@
               "link": "",
               "align": "left",
               "width": "1\/1"
-            }
-          },
-          "343f2592-7456-432c-85cc-59cd88ab1d4d": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/MI_WVF2019_115.jpg",
-              "link": "",
-              "width": "1\/2"
             }
           },
           "d64c0c8e-a8ed-465f-9b5f-801669258148": {
@@ -2034,13 +2189,14 @@
         },
         "block_order": [
           "8b01299e-2cc4-4243-956c-9a69a2ca9bec",
+          "8cf029ee-f974-436d-8371-485132442d33",
+          "343f2592-7456-432c-85cc-59cd88ab1d4d",
+          "6f1c8504-69e0-4ddc-adc5-d97171c0b4b8",
           "12ae00ce-ff0a-4545-b490-d1a9b4b13f62",
           "dd2641df-62c3-4e52-a5e4-78d329e317b1",
           "60770c8b-e9ab-49ee-b7d7-986c6d9171c0",
-          "8cf029ee-f974-436d-8371-485132442d33",
           "b6024470-0bd1-49be-bf89-75b9d690150a",
           "6eb0d397-e6c3-461c-b701-1057a3923d47",
-          "343f2592-7456-432c-85cc-59cd88ab1d4d",
           "d64c0c8e-a8ed-465f-9b5f-801669258148",
           "78a56058-f018-4c26-ab80-a4f96b0300b2",
           "ee9f8940-201a-4e14-96c5-a05c11a5ec69"
@@ -2048,11 +2204,486 @@
         "settings": {
           "container": "medium"
         }
+      },
+      "page-sections-all-winemakers": {
+        "type": "page-sections-all-winemakers",
+        "blocks": {
+          "fdc5130b-5404-49ec-8608-28b7980caa2e": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Albert_Glas_540x_289c23cf-52ed-46f5-a609-9b3f793caa46.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Albert Glas - Essingen",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-albert-glas-essingen",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "ffc5d890-d1ca-4a39-821e-8c9b74b36e6e": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Luckenhalter_01_540x_1.png",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Amselhof - Knöringen",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-amselhof-knoeringen",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "fd35941b-92e2-4fad-90d2-124ebaf3650a": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Behind_The_Grapes_01.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Behind the Grapes - Düsseldorf",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/behind-the-grapes-duesseldorf",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "be016cf3-7e52-432c-9578-b4334b527ac9": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Bender_01.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Bender - Eschbach",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-bender-eschbach",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "f9928fdc-57eb-4c97-9211-b47596616b54": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Bernhardt_1_480x480_4eb8645f-5194-4dba-97db-7c6e471a43a2.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Bernhardt - Ellerstadt",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-bernhardt-ellerstadt",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "00161453-cf01-4c6d-bbf3-6dfe5f51915f": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut-Erich-Braun-Sohne.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Braun und Söhne - Edesheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-braun-und-sohne-edesheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "b0e8e771-de79-4bfd-9135-c6f21601a351": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Burkhard_1_540x_23ecce25-d769-4f30-8a8b-8dbc037c676e.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Burkhard - Wahlheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-burkhard-wahlheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "87d3010e-9fff-493f-9d53-28c4064c049b": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Castel_Peter.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Castel Peter - Bad Dürkheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-castel-peter-bad-duerkheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "331e7690-cf15-4b35-84f8-91e69a83a823": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut_Chumderhof.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Chumbderhof - Bornheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-chumbderhof-bornheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "629860e7-fc54-46f6-bd6d-ad4b28b222e3": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Maison.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Domaine de Maison Plantevin -Séguret",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-domaine-de-maison-plantevin-seguret",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "50e6de6d-fd17-4d78-bd14-1378cb9ea9b8": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut_Grunewald_1.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Eric Grünewald - Weiler bei Bingen",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-eric-gruenewald-weiler-bei-bingen",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "af323c6e-ba9d-42b0-98f6-7cd621283bb0": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_1949-Bearbeitet_Volle_Aufloesung.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weinhaus Franz Hahn - Albersweiler",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weinhaus-franz-hahn-albersweiler",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "81dba08e-7ede-43ad-98fc-1d6ab15208ac": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut_Gindorf.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Gindorf - Lieser",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-gindorf-lieser",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "15372a41-f9f4-4d53-9901-438939188f52": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Grape_Garage_32a.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Grape Garage 32a - Schweigen-Rechtenbach",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/grape-garage-32a-schweigen-rechtenbach",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "5ad7341b-88ba-4c25-8bee-e1dfb857ce4b": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/knappenhof.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Knappenhof - Gamlitz",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-knappenhof-gamlitz",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "4eb32e56-1653-4adb-907c-9962b9809e21": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/normales_Gr._foto_22__BE_222.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Luff - Aspisheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-luff-aspisheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "cc3444e1-c1cb-4be7-a0c8-3a6fae33bd6e": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Matheus-Jun-2019-0140-min_1.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Matheus - Trittenheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-matheus-trittenheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "e805ce23-e90d-4290-9eb6-095b5eab759c": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Ritzheim.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Ritzheim - Uelversheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-ritzheim-uelversheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "06020209-017a-464c-8667-3c3192e412e7": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Rolletter_214_1.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Rolletter - Groß-Winternheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-rollretter-gross-winternheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "7311c13d-b859-499d-a820-edc5eb5fd72b": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/222_1bc87d77-ba58-408a-8049-d9e99d0c6604.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Sanders & Sanders - Klausen",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-sanders-sanders-klausen",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "d204b2a5-98b2-4c8b-a37f-810132d4a5bf": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut-Schafer_1.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Schäfer - Mußbach",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-schafer-mussbach",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "7bcf881c-7219-4a86-b9f7-ca4be80ff234": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Scholler_1.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Scholler - Birkweiler",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-scholler-birkweiler",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "8dabda5d-171f-4a0d-88c0-1e3117f446e7": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Schreieck_1.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Schreieck - Maikammer",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-schreieck-maikammer",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "d778909a-6280-4264-b0cd-019ab42a9675": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Pascal_Sohns_website.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Sohns - Geisenheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-sohns-geisenheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "f427ff38-5fd8-4631-b66f-9ca4c18a3731": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut_Spies_1.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Spies - Neustadt-Duttweiler",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-spies-neustadt-duttweiler",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "a80ba4b3-60e4-4119-8311-4b65af10f743": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut_Stoll.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Stoll - Alzey",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-stoll-alzey",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "aea4a34c-2c01-4188-81bd-61088afe1194": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Vinyes.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Vinyes - Erbringen",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/vinyes-ebringen",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "69932189-7fe9-4efc-a5eb-65d6a43e5fbc": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/NicoWeber_f9245f68-579f-43de-8213-5c8b6cea348b.jpg",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Weber Margarethenhof - Ayl",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-weber-margarethenhof-ayl",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "d7df43d7-4828-4171-841b-e6a8ebcfc214": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weinsberger_Tal.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Winzer vom Weinsberger Tal e.G.",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/winzer-vom-weinsberger-tal-e-g",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "4eb436fd-78ff-467d-9d89-c3ca35845f8c": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut_Wisser.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Wisser - Billigheim-Ingenheim",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-wisser-billigheim-ingenheim",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          },
+          "bd9b906c-6b55-40e8-bc78-3ca871fd845a": {
+            "type": "text-image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Weingut_Wittmann_1.webp",
+              "image_alignment": "center",
+              "text_alignment": "bottom",
+              "title": "Weingut Wittmann - Impflingen",
+              "text": "",
+              "link": "https:\/\/weine-vor-freude.de\/pages\/weingut-wittmann-impflingen",
+              "overlay_strength": 30,
+              "height": "small",
+              "width": "1\/3"
+            }
+          }
+        },
+        "block_order": [
+          "fdc5130b-5404-49ec-8608-28b7980caa2e",
+          "ffc5d890-d1ca-4a39-821e-8c9b74b36e6e",
+          "fd35941b-92e2-4fad-90d2-124ebaf3650a",
+          "be016cf3-7e52-432c-9578-b4334b527ac9",
+          "f9928fdc-57eb-4c97-9211-b47596616b54",
+          "00161453-cf01-4c6d-bbf3-6dfe5f51915f",
+          "b0e8e771-de79-4bfd-9135-c6f21601a351",
+          "87d3010e-9fff-493f-9d53-28c4064c049b",
+          "331e7690-cf15-4b35-84f8-91e69a83a823",
+          "629860e7-fc54-46f6-bd6d-ad4b28b222e3",
+          "50e6de6d-fd17-4d78-bd14-1378cb9ea9b8",
+          "af323c6e-ba9d-42b0-98f6-7cd621283bb0",
+          "81dba08e-7ede-43ad-98fc-1d6ab15208ac",
+          "15372a41-f9f4-4d53-9901-438939188f52",
+          "5ad7341b-88ba-4c25-8bee-e1dfb857ce4b",
+          "4eb32e56-1653-4adb-907c-9962b9809e21",
+          "cc3444e1-c1cb-4be7-a0c8-3a6fae33bd6e",
+          "e805ce23-e90d-4290-9eb6-095b5eab759c",
+          "06020209-017a-464c-8667-3c3192e412e7",
+          "7311c13d-b859-499d-a820-edc5eb5fd72b",
+          "d204b2a5-98b2-4c8b-a37f-810132d4a5bf",
+          "7bcf881c-7219-4a86-b9f7-ca4be80ff234",
+          "8dabda5d-171f-4a0d-88c0-1e3117f446e7",
+          "d778909a-6280-4264-b0cd-019ab42a9675",
+          "f427ff38-5fd8-4631-b66f-9ca4c18a3731",
+          "a80ba4b3-60e4-4119-8311-4b65af10f743",
+          "aea4a34c-2c01-4188-81bd-61088afe1194",
+          "69932189-7fe9-4efc-a5eb-65d6a43e5fbc",
+          "d7df43d7-4828-4171-841b-e6a8ebcfc214",
+          "4eb436fd-78ff-467d-9d89-c3ca35845f8c",
+          "bd9b906c-6b55-40e8-bc78-3ca871fd845a"
+        ],
+        "settings": {
+          "container": "medium"
+        }
       }
     },
     "content_for_index": [
-      "161493571403d914c3",
       "1566456250311",
+      "161493571403d914c3",
       "1616160181dfb3d68b",
       "161347815730dfdfc1",
       "1566456283593",
